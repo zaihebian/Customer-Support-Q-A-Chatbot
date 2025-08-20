@@ -31,3 +31,4 @@ markdownify
 beautifulsoup4
 lxml
 tiktoken
+
