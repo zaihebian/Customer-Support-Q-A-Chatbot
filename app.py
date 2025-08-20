@@ -1,50 +1,89 @@
-# app.py
-import os
-import streamlit as st
-from dotenv import load_dotenv
+import os, pathlib
+from langchain.text_splitter import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
+from langchain.schema import Document
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from utils import make_prompt
+from langchain_huggingface import HuggingFaceEmbeddings
 
-load_dotenv()
+INDEX_DIR = "index/faiss"
+DATA_DIR = pathlib.Path("data_clean")
+
+def ensure_index():
+    if os.path.exists(INDEX_DIR):
+        return
+    os.makedirs("index", exist_ok=True)
+    headers = [("#", "h1"), ("##", "h2"), ("###", "h3")]
+    md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers)
+    docs_by_section = []
+    for p in DATA_DIR.glob("*.md"):
+        text = p.read_text(encoding="utf-8")
+        for d in md_splitter.split_text(text):
+            section = " / ".join(filter(None, [d.metadata.get("h1",""), d.metadata.get("h2",""), d.metadata.get("h3","")]))
+            docs_by_section.append(
+                Document(
+                    page_content=f"{section}\n\n{d.page_content}".strip(),
+                    metadata={"source": p.name, "section": section},
+                )
+            )
+    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=120)
+    splits = splitter.split_documents(docs_by_section)
+    emb = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5", encode_kwargs={"normalize_embeddings": True})
+    vs = FAISS.from_documents(splits, emb)
+    vs.save_local(INDEX_DIR)
+
+ensure_index()
+
+
+
+# app.py
+import streamlit as st
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+from transformers import pipeline
+
 st.set_page_config(page_title="H&B FAQ Chatbot", page_icon="💬")
 
-# Load index and models
-emb = OpenAIEmbeddings(model="text-embedding-3-small")
+# --- load vector index + embeddings (same as you used to build) ---
+emb = HuggingFaceEmbeddings(
+    model_name="BAAI/bge-small-en-v1.5",
+    encode_kwargs={"normalize_embeddings": True}
+)
 vs = FAISS.load_local("index/faiss", emb, allow_dangerous_deserialization=True)
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-st.title("H&B Business Chatbot")
-st.caption("Ask about returns, delivery, product info, and policies.")
+# --- tiny local LLM (free) ---
+# flan-t5-small is light; good enough for short, grounded answers
+generator = pipeline(
+    "text2text-generation",
+    model="google/flan-t5-small",
+    max_new_tokens=128
+)
 
-if "history" not in st.session_state: st.session_state.history = []
+st.title("H&B FAQ Chatbot")
+st.caption("Free + local: bge-small embeddings + FLAN-T5-small")
 
-q = st.text_input("Your question")
-if st.button("Ask") or q:
-    if not q: st.stop()
-    docs = vs.similarity_search(q, k=4)
-    context = "\n\n---\n\n".join(d.page_content[:1200] for d in docs)
-    prompt = make_prompt(context, q)
-    with st.spinner("Thinking..."):
-        resp = llm.invoke(prompt).content
+q = st.text_input("Ask a question about delivery, returns, marketplace, etc.")
 
-    st.session_state.history.append(("You", q))
-    st.session_state.history.append(("Bot", resp))
+if q:
+    # retrieve diverse, relevant chunks
+    docs = vs.max_marginal_relevance_search(q, k=5, fetch_k=25)
 
-# Show chat
-for role, msg in st.session_state.history:
-    st.markdown(f"**{role}:** {msg}")
+    # build context (keep it short)
+    context = "\n\n---\n\n".join(d.page_content[:800] for d in docs)
 
-# Feedback
-st.subheader("Feedback")
-col1, col2 = st.columns(2)
-with col1:
-    good = st.button("👍 Helpful")
-with col2:
-    bad = st.button("👎 Not helpful")
+    # prompt the small model to answer ONLY from context
+    prompt = (
+        "Answer the question using ONLY the context. If not in context, say \"I don't know.\" "
+        "Be concise.\n\n"
+        f"Question: {q}\n\n"
+        f"Context:\n{context}\n\nAnswer:"
+    )
+    out = generator(prompt)[0]["generated_text"].strip()
 
-if good or bad:
-    os.makedirs("feedback", exist_ok=True)
-    with open("feedback/log.csv","a",encoding="utf-8") as f:
-        f.write(f"{q}\t{'good' if good else 'bad'}\n")
-    st.success("Thanks!")
+    st.subheader("Answer")
+    st.write(out)
+
+    with st.expander("Sources"):
+        for d in docs:
+            st.write(f"- {d.metadata.get('source')}")
+
+
+## streamlit run app.py --server.port 8501 --server.address 0.0.0.0
