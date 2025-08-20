@@ -1,20 +1,33 @@
-# Core LangChain + community split
-langchain==0.2.*
-langchain-community==0.2.*
-langchain-huggingface==0.0.*
+# # Core LangChain + community split
+# langchain==0.2.*
+# langchain-community==0.2.*
+# langchain-huggingface==0.0.*
 
-# Embeddings + models
-sentence-transformers==2.7.0
-transformers==4.41.2
-torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/cpu
+# # Embeddings + models
+# sentence-transformers==2.7.0
+# transformers==4.41.2
+# torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/cpu
+# faiss-cpu
+
+# # Utils
+# python-dotenv
+# markdownify
+# beautifulsoup4
+# lxml
+# tiktoken
+
+# # Optional: for chat UI later
+# streamlit
+streamlit
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-huggingface==0.0.3
+sentence-transformers
+transformers
+torch
 faiss-cpu
-
-# Utils
 python-dotenv
 markdownify
 beautifulsoup4
 lxml
 tiktoken
-
-# Optional: for chat UI later
-streamlit
