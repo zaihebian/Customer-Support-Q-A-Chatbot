@@ -1,10 +1,12 @@
-# Contact us – Help Centre
+# Contact us
 
-Contact us – Help Centre
-## For the easiest and quickest ways to contact us:## Try our Help Centre articles and topics
-Chat to us 24/7
+Contact us
+## For the easiest and quickest ways to contact us:
+[**Try our Help Centre articles and topics**](https://help.hollandandbarrett.com/hc/en-gb "https://help.hollandandbarrett.com/hc/en-gb")
+
+[Chat to us 24/7](#open-chat "https://help.hollandandbarrett.com/knowledge/editor/01he32kvbscjx13vv3cyhfhaje/en-gb?brand_id=360000873011&return_to=%2fhc%2fen-gb%2farticles%2f360016953339#open-chat")
 ## Alternatively, you can:
-**Submit a request** via one of our contact forms.
+[**Submit a request**](https://help.hollandandbarrett.com/hc/en-gb/requests/new "https://help.hollandandbarrett.com/hc/en-gb/requests/new") via one of our contact forms.
 
 We'll aim to respond to your emails and requests within 48 hours.
 ## Or call us:

@@ -1,6 +1,6 @@
-# I've received a damaged, missing or incorrect item - What should I do? – Help Centre
+# I've received a damaged, missing or incorrect item - What should I do?
 
-I've received a damaged, missing or incorrect item - What should I do? – Help Centre
+I've received a damaged, missing or incorrect item - What should I do?
 
 We're really sorry there's been a problem with your order.
 ## A few quick things to check if you think something’s missing from your order:
@@ -14,8 +14,8 @@ We'll aim to respond within 48 hours.
 
 Once that’s done, we’ll be in touch to confirm and let you know what to expect next.
 
-* For Damaged items click **here**.
-* For Missing/Wrong items received click **here**.
+* For Damaged items click [**here**](https://help.hollandandbarrett.com/hc/en-gb/requests/new?ticket_form_id=5827877385618).
+* For Missing/Wrong items received click [**here**](https://help.hollandandbarrett.com/hc/en-gb/requests/new?ticket_form_id=4416683808402).
 
 Please make sure you provide as much information as you can, this will allow our customer service team to resolve the issue as quickly as possible.
 ## \*If reporting a faulty or damaged item, please send us a photo by attaching it to the form.
@@ -24,4 +24,4 @@ Please make sure you provide as much information as you can, this will allow our
 * If you choose to have the item replaced, our customer service team will select the fastest possible delivery service for you.
 * If you choose to have the item refunded, please be aware this can take 3 - 5 working days, excluding weekends and bank holidays.
 
-If you have purchased something from Ocado that is damaged, missing or incorrect please get in touch with Ocado directly so that they can help you with this: **Ocado Contact Us**
+If you have purchased something from Ocado that is damaged, missing or incorrect please get in touch with Ocado directly so that they can help you with this: [**Ocado Contact Us**](https://www.ocado.com/content/contact-us-175896#:~:text=To%20speak%20with%20one%20of%20our%20advisors%20on%20the%20phone,us%20on%200345%20656%201234.)

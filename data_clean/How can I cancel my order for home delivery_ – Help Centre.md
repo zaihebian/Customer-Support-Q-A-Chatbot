@@ -1,8 +1,8 @@
-# How can I cancel my order for home delivery? – Help Centre
+# How can I cancel my order for home delivery?
 
-How can I cancel my order for home delivery? – Help Centre
+How can I cancel my order for home delivery?
 ## If you placed your order in the last 30 minutes, you can cancel it before we begin processing.
-You can cancel your order through our web chat. To chat with Hollie, our virtual assistant, simply click on the chat icon in the bottom right corner of your screen. Hollie will need your order number and email address to check the status of your order. If your order hasn’t been processed, you can cancel it with just a click. Alternatively get in touch here.
+You can cancel your order through our web chat. To chat with Hollie, our virtual assistant, simply click on the chat icon in the bottom right corner of your screen. Hollie will need your order number and email address to check the status of your order. If your order hasn’t been processed, you can cancel it with just a click. Alternatively get in touch [here.](https://help.hollandandbarrett.com/hc/en-gb/articles/20011957983378-Contact-us)
 
 Please be aware that once an order is cancelled, it can't be reinstated.
 

@@ -1,165 +1,214 @@
-# import os, pathlib
-# from langchain.text_splitter import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
-# from langchain.schema import Document
-# from langchain_community.vectorstores import FAISS
-# from langchain_huggingface import HuggingFaceEmbeddings
-
-# INDEX_DIR = "index/faiss"
-# DATA_DIR = pathlib.Path("data_clean")
-
-# def ensure_index():
-#     if os.path.exists(INDEX_DIR):
-#         return
-#     os.makedirs("index", exist_ok=True)
-#     headers = [("#", "h1"), ("##", "h2"), ("###", "h3")]
-#     md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers)
-#     docs_by_section = []
-#     for p in DATA_DIR.glob("*.md"):
-#         text = p.read_text(encoding="utf-8")
-#         for d in md_splitter.split_text(text):
-#             section = " / ".join(filter(None, [d.metadata.get("h1",""), d.metadata.get("h2",""), d.metadata.get("h3","")]))
-#             docs_by_section.append(
-#                 Document(
-#                     page_content=f"{section}\n\n{d.page_content}".strip(),
-#                     metadata={"source": p.name, "section": section},
-#                 )
-#             )
-#     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=120)
-#     splits = splitter.split_documents(docs_by_section)
-#     emb = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5", encode_kwargs={"normalize_embeddings": True})
-#     vs = FAISS.from_documents(splits, emb)
-#     vs.save_local(INDEX_DIR)
-
-# ensure_index()
-
-
-
-# # app.py
-# import streamlit as st
-# from langchain_community.vectorstores import FAISS
-# from langchain_huggingface import HuggingFaceEmbeddings
-# from transformers import pipeline
-
-# st.set_page_config(page_title="H&B FAQ Chatbot", page_icon="💬")
-
-# # --- load vector index + embeddings (same as you used to build) ---
-# emb = HuggingFaceEmbeddings(
-#     model_name="BAAI/bge-small-en-v1.5",
-#     encode_kwargs={"normalize_embeddings": True}
-# )
-# vs = FAISS.load_local("index/faiss", emb, allow_dangerous_deserialization=True)
-
-# # --- tiny local LLM (free) ---
-# # flan-t5-small is light; good enough for short, grounded answers
-# generator = pipeline(
-#     "text2text-generation",
-#     model="google/flan-t5-small",
-#     max_new_tokens=128
-# )
-
-# st.title("H&B FAQ Chatbot")
-# st.caption("Free + local: bge-small embeddings + FLAN-T5-small")
-
-# q = st.text_input("Ask a question about delivery, returns, marketplace, etc.")
-
-# if q:
-#     # retrieve diverse, relevant chunks
-#     docs = vs.max_marginal_relevance_search(q, k=5, fetch_k=25)
-
-#     # build context (keep it short)
-#     context = "\n\n---\n\n".join(d.page_content[:800] for d in docs)
-
-#     # prompt the small model to answer ONLY from context
-#     prompt = (
-#         "Answer the question using ONLY the context. If not in context, say \"I don't know.\" "
-#         "Be concise.\n\n"
-#         f"Question: {q}\n\n"
-#         f"Context:\n{context}\n\nAnswer:"
-#     )
-#     out = generator(prompt)[0]["generated_text"].strip()
-
-#     st.subheader("Answer")
-#     st.write(out)
-
-#     with st.expander("Sources"):
-#         for d in docs:
-#             st.write(f"- {d.metadata.get('source')}")
-
-
-# ## streamlit run app.py --server.port 8501 --server.address 0.0.0.0
-
 # app.py
 import os, pathlib, warnings
 import streamlit as st
-from langchain.text_splitter import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter
-from langchain.schema import Document
-from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
-from transformers import pipeline
+
+from langchain.text_splitter import MarkdownHeaderTextSplitter, RecursiveCharacterTextSplitter # break docs into chunks with structure
+from langchain.schema import Document  # standard wrapper for text + metadata
+from langchain_community.vectorstores import FAISS  
+from langchain_huggingface import HuggingFaceEmbeddings # using BAAI/bge-small for strong,free embeddings.
+
+from transformers import pipeline, AutoTokenizer # standardized interface to generation models like Flan-T5
+from sentence_transformers import CrossEncoder # reranker model fine-tuned for relevance scoring.
+
+# these are practical, free,open-source defaults.
+
+# Optional BM25 fallback
+try:
+    from langchain_community.retrievers import BM25Retriever
+    HAVE_BM25 = True
+except Exception:
+    HAVE_BM25 = False
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-st.set_page_config(page_title="H&B FAQ Chatbot", page_icon="\U0001F4AC")
-st.title("H&B FAQ Chatbot")
-st.caption("Free + local RAG (bge-small + FLAN-T5-small)")
 
+# ---------- UI ----------
+st.set_page_config(page_title="Customer Support Q&A Chatbot", page_icon="\U0001F4AC")
+st.title("Customer Support Q&A Chatbot")
+#st.caption("RAG · bge-small (embeddings) · CrossEncoder rerank · FLAN-T5-base (generator)")
+st.caption("Developed by Parker Bai")
+
+# ---------- Paths & constants ----------
 INDEX_DIR = "index/faiss"
 DATA_DIR = pathlib.Path("data_clean")
 
+TOPK_CANDIDATES = 10      # initial dense retrieval pool
+CONF_THRESHOLD = 0.35     # reranker confidence for "I don't know."
+DELTA_TOP1_TOP2 = 0.10    # if top1 - top2 > this, use only top1
+TOKEN_BUDGET = 480        # keep prompt < 512 for flan-t5-base
+SNIPPET_CHAR_CAP = 700    # pre-trim each block before token budgeting
+
+# ---------- Index build ----------
 def build_index():
     os.makedirs("index", exist_ok=True)
     headers = [("#", "h1"), ("##", "h2"), ("###", "h3")]
     md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers)
-    docs_by_section = []
+
+    docs = []
     for p in DATA_DIR.glob("*.md"):
         text = p.read_text(encoding="utf-8")
         for d in md_splitter.split_text(text):
-            section = " / ".join(filter(None, [d.metadata.get("h1",""), d.metadata.get("h2",""), d.metadata.get("h3","")]))
-            docs_by_section.append(
+            section = " / ".join(
+                filter(None, [d.metadata.get("h1",""), d.metadata.get("h2",""), d.metadata.get("h3","")])
+            )
+            docs.append(
                 Document(
                     page_content=f"{section}\n\n{d.page_content}".strip(),
-                    metadata={"source": p.name, "section": section},
+                    metadata={"source": p.name, "section": section},  # which document, and which part of the document
                 )
             )
-    splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=120)
-    splits = splitter.split_documents(docs_by_section)
-    emb = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5", encode_kwargs={"normalize_embeddings": True})
+
+    splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=150)
+    splits = splitter.split_documents(docs)
+
+    emb = HuggingFaceEmbeddings(
+        model_name="BAAI/bge-small-en-v1.5",
+        encode_kwargs={"normalize_embeddings": True}
+    )
     vs = FAISS.from_documents(splits, emb)
     vs.save_local(INDEX_DIR)
 
+# ---------- Cached resources ----------
 @st.cache_resource(show_spinner=False)
 def get_embeddings():
-    return HuggingFaceEmbeddings(model_name="BAAI/bge-small-en-v1.5", encode_kwargs={"normalize_embeddings": True})
+    return HuggingFaceEmbeddings(
+        model_name="BAAI/bge-small-en-v1.5",
+        encode_kwargs={"normalize_embeddings": True}
+    )
 
 @st.cache_resource(show_spinner=False)
 def get_vectorstore():
     if not os.path.exists(INDEX_DIR):
         if not DATA_DIR.exists() or not list(DATA_DIR.glob("*.md")):
-            st.error("No Markdown files found in data_clean/. Add some .md files to the repo.")
+            st.error("No Markdown files found in data_clean/. Add .md files and redeploy.")
             st.stop()
         build_index()
     emb = get_embeddings()
     return FAISS.load_local(INDEX_DIR, emb, allow_dangerous_deserialization=True)
 
 @st.cache_resource(show_spinner=False)
-def get_generator():
-    # small, CPU-friendly model
-    return pipeline("text2text-generation", model="google/flan-t5-small", max_new_tokens=128)
+def get_reranker():
+    return CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
+@st.cache_resource(show_spinner=False)
+def get_generator_and_tokenizer():
+    tok = AutoTokenizer.from_pretrained("google/flan-t5-base")
+    gen = pipeline(
+        "text2text-generation",
+        model="google/flan-t5-base",
+        tokenizer=tok,
+        max_new_tokens=160,
+        min_new_tokens=8,        # avoid empty outputs
+        num_beams=4,             # stable decoding
+        do_sample=False,
+        no_repeat_ngram_size=3,  # reduce repetition
+        truncation=True
+    )
+    return gen, tok
+
+
+@st.cache_resource(show_spinner=False)
+def get_bm25_retriever():
+    if not HAVE_BM25:
+        return None
+    headers = [("#", "h1"), ("##", "h2"), ("###", "h3")]
+    md_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers)
+    corpus = []
+    for p in DATA_DIR.glob("*.md"):
+        text = p.read_text(encoding="utf-8")
+        for d in md_splitter.split_text(text):
+            section = " / ".join(filter(None, [d.metadata.get("h1",""), d.metadata.get("h2",""), d.metadata.get("h3","")]))
+            corpus.append(
+                Document(
+                    page_content=(section + "\n\n" + d.page_content).strip(),
+                    metadata={"source": p.name, "section": section},
+                )
+            )
+    return BM25Retriever.from_documents(corpus)
+
+# ---------- Helpers ----------
+def build_prompt_with_budget(q, docs, tokenizer, token_budget=TOKEN_BUDGET):
+    instr = (
+        "Answer ONLY from the snippets below. Prefer [1]. "
+        "If the answer is not present, reply exactly: I don't know. "
+        "Write 1–2 short sentences.\n\n"
+    )
+    head = f"Question: {q}\n"
+    header_tokens = len(tokenizer.encode(instr + head, add_special_tokens=False))
+
+    context = ""
+    used = header_tokens
+    for i, d in enumerate(docs, 1):
+        block_text = d.page_content[:SNIPPET_CHAR_CAP]
+        block = f"[{i}] Source: {d.metadata.get('source')} — {d.metadata.get('section')}\n{block_text}"
+        btoks = len(tokenizer.encode("\n\n---\n\n" + block, add_special_tokens=False))
+        if used + btoks > token_budget:
+            break
+        context += "\n\n---\n\n" + block
+        used += btoks
+
+    return instr + head + "Context:\n" + context + "\n\nAnswer:"
+
+# ---------- Load resources ----------
 vs = get_vectorstore()
-generator = get_generator()
+reranker = get_reranker()
+generator, tokenizer = get_generator_and_tokenizer()
+bm25 = get_bm25_retriever()
 
-q = st.text_input("Ask a question (delivery, returns, marketplace)")
+# ---------- App ----------
+st.subheader('Please ask a question')
+q = st.text_input(" ")
 
 if q:
-    with st.spinner("Searching…"):
-        docs = vs.max_marginal_relevance_search(q, k=5, fetch_k=25)
-    context = "\n\n---\n\n".join(d.page_content[:800] for d in docs)
-    prompt = (
-        "Answer the question using ONLY the context. If not in context, say \"I don't know.\" "
-        "Be concise.\n\n"
-        f"Question: {q}\n\nContext:\n{context}\n\nAnswer:"
-    )
+    with st.spinner("Retrieving…"):
+        candidates = vs.similarity_search(q, k=TOPK_CANDIDATES)
+
+    if not candidates:
+        st.subheader("Answer")
+        st.write("I don't know.")
+        st.stop()
+
+    # Rerank by cross-encoder relevance
+    pairs = [(q, d.page_content[:1000]) for d in candidates]
+    scores = reranker.predict(pairs)  # higher = better
+    ranked = sorted(zip(scores, candidates), key=lambda x: x[0], reverse=True)
+
+    top1_score, top1_doc = ranked[0]
+    top2_score = ranked[1][0] if len(ranked) > 1 else -1.0
+
+    # Confidence gate
+    use_docs = None
+    if top1_score < CONF_THRESHOLD and bm25 is not None:
+        # BM25 keyword fallback
+        # bm_hits = bm25.get_relevant_documents(q)[:2]
+        # if bm_hits:
+        #     use_docs = bm_hits
+        #     top1_score = float("nan")  # indicate fallback
+        st.subheader("Answer")
+        st.write("I don't know.")
+        st.stop()
+    elif top1_score < CONF_THRESHOLD:
+        st.subheader("Answer")
+        st.write("I don't know.")
+        # with st.expander("Why?"):
+        #     st.write(f"Top reranker score too low ({top1_score:.3f} < {CONF_THRESHOLD}).")
+        st.stop()
+
+    # If confident: choose top-1 or top-2 based on margin
+    if use_docs is None:
+        if (top1_score - top2_score) > DELTA_TOP1_TOP2:
+            use_docs = [top1_doc]
+        else:
+            use_docs = [d for _, d in ranked[:2]]
+
+    # Build prompt within token budget
+    prompt = build_prompt_with_budget(q, use_docs, tokenizer)
+
+    # with st.expander("Debug (scores & prompt)"):
+    #     st.write(f"Top reranker score: {top1_score if top1_score==top1_score else 'BM25 fallback'}")
+    #     st.text_area("Prompt (truncated to budget)", prompt, height=200)
+
+    # Generate
     try:
         out = generator(prompt)[0]["generated_text"].strip()
     except Exception as e:
@@ -167,9 +216,12 @@ if q:
         st.exception(e)
         st.stop()
 
+    if not out:
+        out = "I don't know."
+
     st.subheader("Answer")
     st.write(out)
 
-    with st.expander("Sources"):
-        for d in docs:
-            st.write(f"- {d.metadata.get('source')} — {d.metadata.get('section')}")
+    # with st.expander("Sources"):
+    #     for i, d in enumerate(use_docs, 1):
+    #         st.write(f"- [{i}] {d.metadata.get('source')} — {d.metadata.get('section')}")

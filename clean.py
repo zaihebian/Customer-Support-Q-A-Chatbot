@@ -47,12 +47,37 @@ def strip_section(md: str, heading_words: tuple[str, ...]) -> str:
     )
     return re.sub(pattern, "\n", md, flags=re.IGNORECASE)
 
+# >>> CHANGED: helpers to remove "Help Centre" and dedupe repeated info
+HELP_CENTRE_PATTERNS = (
+    r"\s*–\s*Help\s*Centre",   # trailing " – Help Centre"
+    r"\s*-\s*Help\s*Centre",   # trailing " - Help Centre"
+    r"\s*\|\s*Help\s*Centre",  # trailing " | Help Centre"
+    r"\s*\(Help\s*Centre\)",   # "(Help Centre)"
+)
+
+def remove_help_centre(text: str) -> str:
+    # remove trailing variants from headings/titles/lines
+    for pat in HELP_CENTRE_PATTERNS:
+        text = re.sub(pat, "", text, flags=re.IGNORECASE)
+    # remove standalone lines that are just "Help Centre"
+    lines = []
+    for line in text.splitlines():
+        if line.strip().lower() == "help centre":
+            continue
+        lines.append(line)
+    return "\n".join(lines)
+
+
+
 def postprocess_markdown(md: str) -> str:
+    # >>> CHANGED: remove "Help Centre" noise first
+    md = remove_help_centre(md)
+
     # 1) remove image placeholders: ![alt](url)
     md = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", md)
 
-    # 2) turn links into plain text: [text](url) -> text
-    md = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", md)
+    # # 2) turn links into plain text: [text](url) -> text
+    # md = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", md)
 
     # 3) promote bold Qs to headings: **Question?** -> ## Question?
     md = re.sub(r"^\s*\*\*(.+?)\*\*\s*$", r"## \1", md, flags=re.MULTILINE)
@@ -79,7 +104,7 @@ def postprocess_markdown(md: str) -> str:
     md = "\n".join(lines)
 
     # 7) collapse extra blank lines
-    md = re.sub(r"\n{3,}", "\n\n", md).strip() + "\n"
+    md = re.sub(r"\n{3,}", r"\n\n", md).strip() + "\n"
     return md
 
 # process all HTML files
@@ -92,3 +117,4 @@ for html_file in RAW.glob("*.html"):
         print("Saved", out_path.name)
     except Exception as e:
         print("Skip", html_file.name, "-", e)
+

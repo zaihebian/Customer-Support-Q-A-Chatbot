@@ -1,0 +1,2099 @@
+# Products
+
+- Viviscal Healthy Hair Vitamins 180 Tablets — €83.99
+- Holland & Barrett High Strength Co-Q10 100mg 90 Capsules — €24.39
+- Holland & Barrett Omega 3 Fish Oil 1000mg 240 Capsules — €37.99
+- Dose & Co Pure Collagen 283g — €26.24
+- Holland & Barrett High Strength Glucosamine & Chondroitin Complex 180 Tablets — €45.99
+- Holland & Barrett Co-Q10 50mg 90 Tablets — €16.25
+- Weleda Skin Food 75ml — €15.56
+- Holland & Barrett Apple Cider Vinegar 250mg with the Mother Apple Flavour 60 Gummies — €17.99
+- Holland & Barrett Biotin Hair High Strength Complex 30 Capsules — €8.45
+- Holland & Barrett Super Strength Co-Q10 200mg 30 Capsules — €22.50
+- Holland & Barrett Blueberry Vision 60 Capsules — €13.74
+- Novomins Women's Bio-Balance Strawberry Flavoured 60 Gummies — €22.99
+- Holland & Barrett Calcium Magnesium Vitamin D & Zinc 240 Tablets — €18.99
+- Holland & Barrett Milk Thistle 100mg 30 Capsules — €8.49
+- Perfectted Oat Matcha Latte Vanilla 250ml — €1.94
+- Holland & Barrett Vitamin D 1000 I.U 25ug 120 Tablets — €4.70
+- Holland & Barrett Vitamin D3 4000 I.U. 100ug 120 Tablets — €10.24
+- Holland & Barrett Magnesium 375mg 180 Tablets — €16.49
+- Vitabiotics Ultra Magnesium 60 Tablets — €12.29
+- Perfectted Oat Matcha Latte Strawberry 250ml — €1.94
+- Linwoods Milled Flaxseed, Sunflower, Pumpkin & Chia Seeds & Goji Berries 425g — €6.49
+- Holland & Barrett Gentle Iron 20mg 90 Capsules — €6.00
+- Novomins Kids Magnesium Strawberry Flavoured 30 Gummies — €11.99
+- Holland & Barrett Omega 3 Fish Oil 1000mg 120 Capsules — €23.49
+- Holland & Barrett Complete Vit B Complex 120 Tablets — €3.54
+- Holland & Barrett Turmeric 1500mg + Black Pepper 90 Capsules — €12.99
+- Holland & Barrett Multivitamin 30 Gummies — €4.00
+- Holland & Barrett Cold-Pressed Castor Oil 250ml — €11.99
+- Unrooted Good Gut Super Greens & Lemon Shot 60ml — €2.17
+- Holland & Barrett High Strength Turmeric 600mg with Black Pepper 90 Capsules — €22.49
+- Holland & Barrett Magnesium & Zinc 90 Tablets — €5.84
+- Holland & Barrett Lutigold Lutein 100 Capsules 6mg — €9.45
+- Holland & Barrett Raspberry Ketone Complex 90 Capsules — €11.39
+- Holland & Barrett High Strength Slow Release Vitamin B12 1000ug 120 Tablets — €11.24
+- Vitabiotics Ultra Vitamin D 1000 IU Optimum Level 96 Tablets — €10.29
+- Holland & Barrett Calcium Magnesium Vitamin D & Zinc 120 Tablets — €6.50
+- Holland & Barrett K2 And Vit D Spray Peppermint Flavour 10ml — €5.84
+- Holland & Barrett Live Friendly Bacteria 20 Billion 60 Capsules — €14.95
+- Ecodenta Black Whitening Toothpaste with Black Charcoal 100ml — €7.89
+- Holland & Barrett Cholestaguard Plant Sterols 60 Tablets — €7.79
+- James White Drinks Turmeric Zinger Shot 70ml — €2.11
+- Tri-Magnesium Powder Blue Raspberry 200g — €18.00
+- Meridian Smooth Almond Butter 1kg — €19.00
+- Holland & Barrett Activated Charcoal 120 Capsules — €8.49
+- Holland & Barrett Artichoke Extract 60 Capsules — €10.74
+- Naturtint Permanent Hair Colour 5N (Light Chestnut Brown) — €18.00
+- Weleda Skin Food Body Lotion 200ml — €14.62
+- Pulsin Almond & Salted Caramel Keto Bar 50g — €2.90
+- Holland & Barrett Potent Acidophilus (10 Billion) 60 Capsules — €9.74
+- Odysea Pomegranate Molasses 250ml — €3.99
+- Holland & Barrett Friendly Bacteria & ACV 30 Gummies — €9.49
+- Vitabiotics Wellkid Peppa Pig Vitamin D Strawberry Flavour 400iu 30 Jellies — €10.52
+- Eat Real Veggie Straws Paprika 110g — €2.89
+- Holland & Barrett Rose Hip 120 Tablets — €10.99
+- Holland & Barrett Glucosamine Sulphate 500mg 120 Capsules — €8.49
+- Faith In Nature Dragon Fruit Soap — €4.50
+- Weleda Skin Food Light 75ml — €15.56
+- Yfood Ready to Drink Complete Meal Classic Choco Drink 500ml — €3.50
+- SiS Energy Oat Bar Blueberry 70g — €2.50
+- Faith in Nature Hemp with Green Tea Soap 100g — €4.50
+- Protein Flapjack Very Berry 75g — €2.60
+- Pukka Three Fennel Tea 20 Tea Bags — €6.19
+- Myprotein Impact Creatine Monohydrate 150g — €10.50
+- Holland & Barrett Apple Cider Vinegar 200 Tablets 300mg — €19.49
+- Faith in Nature Seaweed & Citrus Conditioner 400ml — €10.99
+- Burt's Bees Pink Blossom Tinted Lip Balm 4.25g — €8.49
+- Superblends Menopause Cool Moments 20 Tea Bags — €3.14
+- Optimum Nutrition Gold Standard 100% Whey Protein Chocolate Peanut Butter 896g — €53.30
+- Myprotein Impact Diet Whey Strawberry Shortcake 1kg — €21.00
+- Nature's Aid Multi Vitamin Drops Orange 50ml — €11.49
+- Ecodenta Caries Fighting Toothpaste with Xylitol 100ml — €9.39
+- Burt's Bees Rose Tinted Lip Balm 4.25g — €8.49
+- Form Nutrition Performance Protein Vanilla 520g — €29.50
+- Holland & Barrett PRO Vitamin F Night Cream 50ml — €11.99
+- Jack N' Jill Natural Certified Toothpaste Flavour Free 50g — €7.00
+- Tri-Magnesium Powder Tropical Vibes 200g — €18.00
+- Solgar Extra Strength Glucosamine Chondroitin MSM 60 Tablets — €55.60
+- Salt of the Earth Classic Natural Deodorant Crystal 90g — €5.68
+- Holland & Barrett Walnut Halves 200g — €4.30
+- Holland & Barrett Potent Acidophilus (10 Billion) 120 Capsules — €29.89
+- Deliciously Ella Cacao & Almond Oat Bar 50g — €1.69
+- Twinings Superblends Balance 20 Bags — €3.14
+- PPB Powdered Peanut Butter Chocolate 180g — €11.49
+- Holland & BarrettHigh Strength Garlic 6000mg 120 Capsules — €12.99
+- Yogi Tea Throat Comfort Organic 17 Tea Bags — €4.49
+- Myprotein Impact Diet Whey Cookies & Cream 1kg — €21.00
+- PE Nutrition Essential Amino Acids 90 Tablets — €10.40
+- Dose & Co Skin Renewing 30 Capsules — €39.99
+- Optimum Nutrition Micronised Creatine Monohydrate 317g — €21.00
+- Holland & Barrett Bovine Collagen Strawberry 60 Gummies — €25.49
+- Grass & Co. FOCUS Lion's Mane Mushrooms with Ginseng + Omega-3 60 Vegan Capsules — €34.45
+- Dr Organic Snail Gel Cream 50ml — €26.49
+- Nakd Raw Fruit & Nut Blueberry Muffin Bars 18 x 35g — €15.30
+- Faith in Nature Tea Tree Soap 100g — €4.50
+- Twinings Superblends Detox 20 Tea Bags — €2.93
+- Holland & Barrett Iron + B Vits, Vit C & Minerals 15mg 90 Tablets — €5.34
+- Holland & Barrett Glucosamine Gel 100ml — €4.54
+- Holland & Barrett Flame Raisins 210g — €2.89
+- Solgar Zinc Picolinate 22mg 100 Tablets — €12.40
+- Optimum Nutrition Nutty Chocolate Caramel Protein Bar 70g — €3.50
+- Holland & Barrett Bee Pollen 500mg 90 Tablets — €7.50
+- Buckwud Organic Intense Canadian Maple Syrup 250g — €5.99
+- Fushi Fresh-Pressed Castor Oil 250ml — €11.95
+- Tipson Organic Ashwagandha Mango (25 Enveloped Tea Bags) — €5.49
+- Holland & Barrett Whole Brazil Nuts 200g — €8.39
+- The Beginnings Apple Cookies 80g — €4.89
+- Yogi Tea Turmeric Chai 17 Tea Bags — €4.49
+- Tri-Magnesium Powder Lemon & Lime 200g — €18.00
+- Applied Nutrition Coleen Rooney Debloat Sticks Pineapple, Mint & Prickly Pear 14 x  9.1g Sachets — €23.99
+- Odysea Big Kalamata Pitted Olives 290g — €3.19
+- Holland & Barrett Magnesium Citrate 90 Tablets — €10.72
+- Holland & Barrett Dried Dates 420g — €5.25
+- Beauty Dropz Retinol Edible Skincare 60ml — €10.04
+- PROCEIVE® Women Advanced Fertility Supplement 60 Capsules — €25.11
+- Wild Nutrition Zinc Plus Blended with Vitamins B1, B2 & B6 30 Capsules. — €14.62
+- Ecodenta Triple Force Toothpaste with White Clay 100ml — €8.29
+- Holland & Barrett Slippery Elm Bark 370mg 90 Capsules — €10.10
+- Holland & Barrett Conception Support For Her 30 Tablets — €2.79
+- Holland & Barrett Turmeric Gummy 60 Chewables — €12.49
+- Wild Nutrition Food Grown Daily Multi Nutrient for Women 60 Capsules — €36.00
+- Holland & Barrett Bovine Collagen  Blackcurrant Effervescent 20 Tablets 1000mg — €5.00
+- Barebells Soft Protein Bar Caramel Choco 55g — €3.50
+- Dr Organic Tea Tree Nail Solution 10ml — €9.09
+- Holland & Barrett Glucosamine Sulphate 1000mg 60 Tablets — €10.39
+- Myprotein Hydrolysed Collagen Peptide Chocolate 1kg — €32.50
+- Holland & Barrett Chickpea Penne 250g — €3.65
+- Dr Organic Rose Otto Night Cream 50ml — €15.59
+- Jade & Joy Cookie Crumb Vegan Collagen Protein Bar 50g — €3.25
+- Active Iron 30 Capsules — €16.11
+- Faith in Nature Seaweed & Citrus Body Wash 5L — €42.20
+- Holland & Barrett Dried Apricot Pieces 200g — €3.90
+- Vital Proteins Collagen Peptides Cocoa Flavour 297g — €38.99
+- Manuka Doctor Monofloral Manuka Honey MGO 1000 250g — €113.50
+- Holland & Barrett Luxury Mixed Nuts 200g — €6.89
+- Holland & Barrett Poppy Seeds 200g — €3.89
+- Twinings Superblends Calm 20 Tea Bags — €2.93
+- Holland & Barrett Bee Propolis 500mg 90 Capsules — €6.75
+- Holland & Barrett Selenium 200ug 120 Tablets — €8.74
+- Quinola Express Wholegrain Quinoa 250g — €2.00
+- Holland & Barrett Manuka Honey Tonic + Propolis, Thyme, Apple Cider Vinegar & Vit C 200ml Liquid — €18.99
+- Holland & Barrett Magnesium Citrate 90 Tablets — €12.34
+- TriActive Super Good Bar Pistachio & Cranberry 50g — €3.25
+- Nakd Raw Fruit & Nut Salted Caramel Bars 18 x 35g — €15.40
+- Dr Organic Rose Otto Face Scrub 125ml — €10.49
+- Holland & Barrett High Protein BBQ Plant Puff Crisps 75g — €4.55
+- Myprotein Hydrolysed Collagen Peptide 1kg — €32.50
+- Ecodenta Multifunctional Mouthwash with Mint Oil 500ml — €8.85
+- Mr Organic Basilico Pasta Sauce 350g — €2.60
+- Vitabiotics Wellkid Peppa Pig Multi-Vitamin Strawberry Flavour 30 Jellies — €11.69
+- SuperBlends Wellbeing Collection 20 Bags — €3.14
+- Freee Organic Gluten Free Supergrain Hoops 300g — €3.99
+- BetterYou Magnesium Oil Joint Spray 100ml — €15.59
+- Tipson Organic Ashwagandha Ginger & Peach (25 Enveloped Tea Bags) — €5.75
+- Clear Whey Protein Lemonade 364g — €26.00
+- Dr Organic Tea Tree Blemish Stick — €7.79
+- Isopure Whey Protein Isolate Unflavoured 435g — €28.00
+- Burt's Bees Ultra Conditioning Lip Balm with Kokum Butter 4.25g — €4.69
+- Myprotein Protein Crispy Wafers Chocolate 41.9g — €3.25
+- Twinings Superblends Defence 20 Tea Bags — €3.18
+- Pukka Joy 20 Tea Bags — €6.19
+- Holland & Barrett Turmeric 500mg 240 Capsules — €47.99
+- SiS GO Isotonic Energy Gel Variety Pack 7 x 60ml — €11.50
+- Plant Protein Bar Dark Chocolate Raspberry 12 x 60g — €27.00
+- Weleda Skin Food Ultra-Light Dry Oil 100ml — €15.75
+- Weleda Relax Aroma Shower 200ml — €8.25
+- Holland & Barrett Dried Cranberries 750g — €15.99
+- Burt's Bees Orange Blossom & Pistachio Hand Cream — €9.69
+- Natures Aid 100% MCT Oil 120 Capsules — €20.24
+- Salt of the Earth Spray Deodorant — €5.35
+- Cheerful Buddha Lion's Mane Mushroom Coffee Blend 150g — €19.49
+- Holland & Barrett Roasted Monkey Nuts 300g — €4.09
+- Holland & Barrett 9 Plant Chilli Sauce 340g — €3.00
+- Twinings Superblends Digest 20 Tea Bags — €2.93
+- Weleda Calendula Soap 100g — €6.11
+- Manuka Doctor Manuka Honey 540 MGO 250g — €64.00
+- Holland & Barrett Elderberry Night time with Vitamin C&D, Zinc & Chamomile 200ml Liquid — €7.00
+- Jade & Joy Marshmallow Biscuit Vegan Collagen Protein Bar 50g — €3.25
+- Bluey Immune Support Mixed Berry Flavour 30 Gummies — €11.19
+- Weleda Energy Aroma Shower 200ml — €8.25
+- Holland & Barrett Skin Hair And Nails Vegan Pineapple Flavour  60 Gummies — €18.89
+- Holland & Barrett Vegan Glucosamine 500mg 60 Tablets — €6.50
+- Magnesium & Zinc 90 Tablets — €12.00
+- Health & Her Women 55+ Multivitamin Support 60 Tablets — €16.79
+- The Beginnings Raw Protein Crackers 80g — €4.89
+- Faith in Nature Rosemary Shampoo 400ml — €10.99
+- Haliborange Disney Frozen Iron & Vitamin C Blackcurrant 60 Blackcurrant Flavour Softies — €11.24
+- Holland & Barrett Hair Vitamin Pineapple Flavour 60 Gummies — €18.19
+- Holland & Barrett High Strength Glucosamine & Chondroitin Complex 90 Tablets — €29.99
+- It's Pure Organic Herbal Hair Colour Indigo Black 100g — €15.50
+- Holland & Barrett Novasol Bio-available Curcumin & Vit D 30 Capsules — €25.34
+- Holland & Barrett Pistachio Kernels 100g — €5.99
+- Holland & Barrett Fenugreek 90 Capsules — €8.13
+- Solgar Vitamin B12 1000µg 100 Nuggets — €19.20
+- Holland & Barrett Iron + B Vits, Vit C & Minerals 15mg 180 Tablets — €16.29
+- Holland & Barrett Vitamin B2 + Riboflavin 100mg 120 Tablets — €4.25
+- Dr. PawPaw Peach Pink Balm 10ml — €6.49
+- Holland & Barrett Hawthorn 120 Capsules — €16.25
+- H&B Expert Multi Action Skin Hair and Nails 30 Tablets — €9.49
+- Holland & Barrett Children's Immunity Support Apple & Blackcurrant Flavour Powder 300g — €3.90
+- Weleda Sea Buckthorn Revitalising Body Lotion 200ml — €14.62
+- Burt's Bees Lavender & Honey Hand Cream — €9.49
+- Applied Nutrition Complete Protein Vanilla 450g (15 Servings) — €20.79
+- Holland & Barrett  Ultra Woman 50+ 30 Tablets — €6.50
+- Optimum Nutrition Clear Whey Protein Isolate + Collagen Fruit Ice Tea 240g — €15.00
+- Holland & Barrett Oil of Oregano 56mg 90 Capsules — €8.74
+- Electrolyte 180 Tablets — €27.00
+- Holland & Barrett Skin Support Rocky Road Trail Mix 210g — €6.99
+- USN Diet Fuel Meal Replacement Shake Chocolate 1kg — €25.00
+- Twinings Superblends Turmeric 20 Tea Bags — €2.93
+- Holland & Barrett Marine Collagen Tropical Flavoured Powder 5000mg 210g — €22.00
+- Holland & Barrett Sunrise Trail Mix 210g — €6.49
+- Holland & Barrett Vitamin C 1000mg 120 Tablets — €7.50
+- Starpowa Friendly Gut Bacteria Blueberry Flavoured 30 Gummies — €15.99
+- Holland & Barrett Pineapple Pieces 210g — €8.19
+- Egmont Honey Manuka Honey MGO 250+ 250g — €24.99
+- Holland & Barrett Biotin 1000ug 120 Tablets — €20.19
+- Meridian Organic Cashew Butter 170g — €4.63
+- Burt's Bees 100% Natural Lip Balm Pomegranate 4.25g — €6.10
+- Myprotein Impact Diet Whey Chocolate 1kg — €21.00
+- Holland & Barrett Sea Kelp 30 Tablets — €8.99
+- Grahams C+ Eczema & Dermatitis Cream 50g — €21.15
+- Zooki Marine Collagen 5,000mg, Citrus Lime Flavour - 1x15ml Liquid Sachet — €3.99
+- Salt of the Earth - Amber & Sandalwood Natural Deodorant Roll-on 75ml — €6.02
+- Holland & Barrett Brown Flaxseed 500g — €8.59
+- Holland & Barrett Harissa Cashews and Almonds with Apricots 210g — €5.69
+- Sukin Facial Moisturiser Pump 125ml — €7.68
+- Holland & Barrett Acai Berry 120 Tablets 1500mg — €33.79
+- Wild Nutrition Food Grown Menopause Complex for Women 60 Capsules — €33.75
+- Holland & Barrett Blanched Hazelnuts 200g — €6.49
+- Isopure Raspberry Lemonade Collagen Powder 345g — €23.35
+- Miaroma Rosemary Pure Essential Oil 20ml — €9.71
+- Twinings Superblends Focus 20 Tea Bags — €3.49
+- Myprotein Protein Crispy Wafers Vanilla 40.4g — €3.25
+- Holland & Barrett Hair Vitamin 60 Capsules — €9.45
+- Holland & Barrett Omega Mix 200g — €3.99
+- Starpowa Energy+ Shilajit 300mg 60 Vegan Gummies — €22.49
+- Zooki Hydration+ Energy & Focus, Peach Flavour 7 Sachets — €15.59
+- Garden of Life Microbiome Once Daily 30 Capsules — €20.99
+- Pukka Organic Turmeric, Ginger & Orange Tea 20 Tea Bags — €6.19
+- Chia Smash Raspberry Fruit Spread 227g — €4.99
+- Wibble Foods Vege-Gel 25g — €2.95
+- Deliciously Ella Almond Nut Butter Bites 36g — €2.99
+- Balmonds Top-To-Toe Spf30 - Natural Sunscreen With Zinc 100ml — €20.70
+- Starpowa Bone & Joint Turmeric 3000mg with Black Pepper 60 Vegan Gummies — €25.99
+- Faith in Nature Seaweed & Citrus Body Wash 400ml — €8.79
+- Holland & Barrett Nut Mix 850g — €19.99
+- Holland & Barrett Haskap Powder 100g — €26.00
+- Holland & Barrett Liquorice Root 420mg 90 Capsules — €6.00
+- Holland & Barrett Lycopene 10mg 60 Tablets — €8.77
+- Holland & Barrett Vitamin C High Strength Slow Release 1000mg 120 Tablets — €8.24
+- Ecodenta Multifunctional Toothpaste with 7 Herbs 100ml — €5.99
+- Optimum Nutrition Gold Standard 100% Whey Protein White Chocolate & Raspberry 900g — €53.30
+- Faith in Nature Shea & Argan Conditioner 400ml — €10.99
+- Vita Coco Coconut Oil 50ml — €3.89
+- Weleda Skin Food 30ml — €9.26
+- Linwoods Milled Flaxseed, Biocultures & Vitamin D 360g — €7.49
+- Holland & Barrett Pumpkin & Sunflower Seed Mix 500g — €7.59
+- Holland & Barrett Whole Almonds 400g — €10.49
+- Holland & Barrett Cinnamon 120 Tablets — €11.49
+- Holland & Barrett PRO Vitamin E Day Cream 50ml — €11.99
+- Natures Aid Medium Chain Triglycerides (MCT) Oil with Hazelnut Flavour 500ml — €26.19
+- Holland & Barrett Chlorella Powder 100g — €9.10
+- Holland & Barrett Vegetarian Collagen Complex 30 Capsules — €15.49
+- USN Liv.Smart Toned Lifestyle & Fat Metabolising Support Mixed Berries Sachets 20 x 5g — €15.00
+- Badger Baby SPF30 Sunscreen 87ml — €28.59
+- Holland & Barrett Pine Nuts 200g — €12.99
+- Weleda Calendula Baby Shampoo & Bodywash 200ml — €7.87
+- Dr. PawPaw Plumping Lip Oil 8ml — €6.45
+- Faith in Nature Fragrance Free Shampoo 400ml — €10.99
+- Holland & Barrett Vegan Cold Pressed Evening Primrose Oil 1000mg 90 Capsules — €37.99
+- Holland & Barrett Cashew Nuts 800g — €16.99
+- Grass & Co. FOCUS Lion's Mane Mushrooms Powder 100g — €17.99
+- Starpowa Metabolism ACV Apple Cider Vinegar 1000mg 60 Vegan Gummies — €25.99
+- Holland & Barrett Apple & Cinnamon Flapjack 80g — €2.29
+- Holland & Barrett High Strength Complete Vit B Complex 240 Tablets — €19.49
+- Dr Organic Virgin Coconut Oil Deodorant 50ml — €8.49
+- H&B Expert Marine Collagen Orange Liquid 10 Sachets — €15.99
+- It's Pure Organic Herbal Hair Colour Dark Brown 110g — €16.50
+- Holland & Barrett Collagen UCII T2 40mg 30 Capsules — €11.70
+- Weleda Blue Gentian & Edelweiss Contouring Face Serum 30ml — €32.21
+- Dr Organic Hemp Oil Rescue & Restore Shampoo 265ml — €15.99
+- Naturya Porridge Golden Syrup & Chia 375g — €3.12
+- Cellucor Cor-Performance Creatine 306g — €26.00
+- Dr Organic Pomegranate Deodorant 50ml — €8.49
+- Cherry Active Ltd 60 Capsules — €25.99
+- Applied Nutrition Critical Greens Powder 150g — €12.00
+- Optimum Nutrition Gold Standard Pre Workout Watermelon 330g — €32.00
+- Creatine Monohydrate 700mg 240 Capsules — €46.00
+- Nature Spell Growth Complex Shampoo 300ml — €9.49
+- Grahams Psoriasis Cream 75g — €27.29
+- Holland & Barrett Sunflower Seeds 125g — €2.29
+- Salt of the Earth Peppermint & Tea Tree Natural Foot Deodorant Spray 100ml — €6.35
+- Nature Spell Growth Complex Salt Free Conditioner 300ml — €9.49
+- Holland & Barrett Pumpkin Seeds 500g — €10.99
+- Holland & Barrett Breastfeeding Support 30 Tablets & 30 Capsules — €3.50
+- Holland & Barrett Yoghurt Flavour Top Flapjack 100g — €2.29
+- Egmont Honey Manuka Honey MGO 70+ 500g — €27.49
+- Holland & Barrett Wildflower Honey 340g — €7.00
+- Other Foods Crunchy Oyster Mushrooms 40g — €3.49
+- Starpowa Women's Energy Multivitamin 30 Gummies — €15.99
+- Tipson Organic Collagen Booster (25 Enveloped Tea Bags) — €5.49
+- Holland & Barrett Organic Almonds 200g — €7.09
+- Egmont Manuka Honey 1046+ MGO 250g — €59.99
+- Planet Paleo Organic Bone Broth Collagen Protein Original 225g — €29.24
+- Holland & Barrett Cold Pressed Evening Primrose Oil 1000mg 60 Capsules — €17.99
+- Wild Nutrition Magnesium 60 Capsules — €19.49
+- Fushi Fresh Pressed Organic Neem Oil 50ml — €10.95
+- Egmont Honey Manuka Honey MGO 830+ 225g — €44.99
+- USN Blue Lab Whey Premium Protein Powder Chocolate Caramel 908g — €30.00
+- Grenade Choc Chip Salted Caramel Protein Bar 60g — €4.80
+- Weleda Blue Gentian & Edelweiss Contouring Eye & Lip Cream 10ml — €28.46
+- Holland & Barrett Tropical Bites with Benefits 30g — €2.59
+- Dr Organic Rose Otto Body Lotion 200ml — €11.69
+- Tiana Pure Organic Cherry Blossom Honey (Enzyme Diastase 39+) 250g — €27.99
+- Jack N' Jill Natural Certified Toothpaste Banana 50g — €7.00
+- Holland & Barrett Glucosamine Sulphate 500mg 240 Capsules — €26.99
+- Dr Organic Tea Tree Cream 50ml — €10.39
+- Dr. PawPaw Shea Butter Balm 10ml — €5.85
+- Restore Electrolytes Mixed Berry 7 x 5.9g Sachet — €9.00
+- Dr Organic Hemp Oil Deodorant 50ml — €8.49
+- Dose & Co Hair & Scalp Support 30 Capsules — €39.99
+- Solgar Ester-C 1000mg Vitamin C 90 Capsules — €35.20
+- Salt of the Earth Neroli & Orange Blossom Deodorant Refillable Spray 100ml — €6.35
+- Super Facialist Vitamin C+ Brighten & Defend Spf50+ Broad Spectrum Serum 50ml — €24.00
+- Ecodenta Black Cinnamon Whitening Toothpaste 100ml — €7.89
+- Simplee Aloe Organic Aloe Vera Juice 500ml — €11.61
+- Vitaskin Vitamin C Glow Gel Mask 60ml — €18.99
+- Holland & Barrett Roasted Hazelnuts 100g — €4.29
+- Odysea Roasted Red & Yellow Peppers in Brine 450g — €3.99
+- Holland & Barrett Mega Soya Lecithin Fat Emulsifier 120 Capsules 1325mg — €20.99
+- Freee Organic Gluten Free Cornflakes 325g — €3.40
+- Optimum Nutrition Smartshake Reforce Steel Shaker 900ml — €16.00
+- Holland & Barrett Marine Collagen with Vitamin C 90 Tablets — €42.49
+- Holland & Barrett Vegan Menopause 60 Gummies — €28.49
+- Evolve Daily Renew Facial Cream 60ml — €35.24
+- Performance Whey Blackcurrant 450G — €31.00
+- Faith in Nature Lavender & Geranium Body Wash 5L — €42.20
+- Holland & Barrett Bee Propolis 1000mg 90 Capsules — €9.49
+- Health & Her Natural Menstrual Cycles Multivitamin Support 60 Tablets — €16.79
+- Holland & Barrett Glucomannan & Chromium 60 Capsules — €19.49
+- Grahams Baby Eczema Body & Bath Oil 100ml — €25.99
+- Huel 100% Nutritionally Complete Meal Chocolate 500ml — €4.50
+- Balmonds Hair & Scalp Oil 50ml — €13.93
+- Applied Nutrition Creatine Gummies Millions® Blackcurrant 400g — €18.00
+- Dr. PawPaw Scrub & Nourish — €11.99
+- Evolve Hyaluronic Serum 200 30ml — €29.24
+- Aduna Hibiscus Superfood Powder 275g — €17.99
+- Applied Nutrition Berberine 1000mg x 60 Capsules — €24.49
+- Holland & Barrett Super Strength Garlic 7500mg 240 Capsules — €22.45
+- Quinola Cooked Champagne Region Green Lentils 250g — €2.00
+- Dr. PawPaw Original Balm 10ml — €6.49
+- Holland & Barrett Cashew Nuts 400g — €10.49
+- Holland & Barrett Korean Ginseng 180 Capsules — €30.59
+- Yfood Ready to Drink Complete Meal Heavenly Hazelnut 500ml — €3.50
+- Egmont Honey MGO 700+ 250g — €39.99
+- Linwoods Menoligna 210g — €9.99
+- Tri-Magnesium Powder Strawberry Raspberry 200g — €18.00
+- Marigold Organic Gluten Free Gravy Powder 110g — €3.60
+- Egmont Honey MGO 100+ Multiflora Squeezy 480g — €34.99
+- Holland & Barrett Tummy Love Red Berry Bar with Benefits 40g — €2.59
+- Dr Organic Skin Clear Oil Control Moisturiser 50ml — €10.49
+- Grenade Black Ops 100 Capsules — €34.00
+- Faith In Nature Lavender & Geranium Hand Wash 5 Litre — €42.20
+- Deliciously Ella Hazelnut Nut Butter Bites 36g — €2.49
+- Tipson Organic Infusion Moringa Ginger (25 Enveloped Tea Bags) — €5.75
+- Twinings Superblends Cleanse Matcha Tea 20 Tea Bags — €3.18
+- Suma Organic Edamame Hummus 135g — €3.50
+- Weleda Skin Food Body Butter 150ml — €21.37
+- Faith in Nature Seaweed & Citrus Shampoo 5L — €52.25
+- H&B Expert Multi Action Bone Support 120 Tablets — €41.49
+- H&B Expert Skin High Strength Timeless 30 Capsules — €16.89
+- Badger Kids SPF30 Sunscreen 87ml — €28.59
+- Tisserand Little Box of De-Stress 3x10ml — €23.49
+- Holland & Barrett Effervescent Milk Thistle Extract 100mg Tropical Flavour 20 Tablets — €6.50
+- Nakd Raw Fruit & Nut Cocoa Orange Bars 18 x 35g — €15.30
+- Pukka Three Mint 20 Tea Bags — €6.19
+- Holland & Barrett Bovine Collagen 3000mg 90 Tablets — €24.99
+- James White Drinks Organic Extra Hot Ginger Zinger Shot 70ml — €2.11
+- PROCEIVE® Men Advanced Fertility Supplement 60 Capsules — €23.99
+- Holland & Barrett Baby Vitamin D Drops 10ml — €3.90
+- Holland & Barrett Crunchy Banana Chips 420g — €6.49
+- Ecodenta Certified Organic Sensitivity Relief Toothpaste with Salt 75ml — €8.89
+- Naturya Organic Turmeric Superblend 250g — €10.39
+- Holland & Barrett Evening Primrose & Starflower Oil 1000mg 120 Capsules — €49.99
+- Holland & Barrett Pineapple & Papaya Chunks 210g — €4.89
+- Holland & Barrett Brain Health Trail Mix "With Benefits" Miso & Ginger 210g — €7.79
+- Cheerful Buddha Lion's Mane Mushroom Decaffeinated Coffee Blend 150g — €19.49
+- Weleda Skin Food Nourishing Cleansing Balm 75ml — €13.16
+- Dr. PawPaw Shimmer Balm 10ml — €6.49
+- Holland & Barrett Black Bean Noodles 200g — €3.50
+- Weleda Calendula Baby Oil 200ml — €11.66
+- HotTea Mama The Final Push Raspberry Leaf & Peppermint Tea 14 Tea Bags — €7.79
+- Solgar Biotin 5000µg 50 Vegi Capsules — €23.60
+- Holland & Barrett Flaked Almonds 200g — €6.19
+- Starpowa Vegan Collagen Support 60 Gummies — €25.99
+- Dr Organic Lemongrass Pure Essential Oil 10ml — €6.03
+- Salt of the Earth - Lavender & Vanilla Natural Deodorant Refillable Spray 100ml — €6.35
+- Cheerful Buddha Cacao Bliss 150g — €16.99
+- Fourfive Multi Mushroom Ultimate Blend 10,000mg 60 Capsules — €32.49
+- Holland & Barrett Super Berry Mix 210g — €4.59
+- Holland & Barrett Moringa Powder 100g — €9.10
+- Weleda Arnica Massage Oil 100ml — €19.46
+- The Beginnings Blackcurrant Cookies 80g — €4.89
+- Holland & Barrett Immunity Support Trail Mix "With Benefits" Strawberry & Cranberry 210g — €7.79
+- Holland & Barrett Omega 3 Fish Oil 1500mg 120 Capsules — €34.99
+- Manuka Doctor Premium Monofloral Manuka Honey MGO 1100 250g — €139.99
+- Egmont Honey Manuka Honey MGO 40+ 250g — €12.49
+- Vitaskin Vitamin C Intense Illuminating Oil — €22.99
+- Milkaid Lactase Enzyme Tablets Raspberry Flavour 120 Tablets — €12.74
+- Holland & Barrett Apple Cider Vinegar 400 Tablets 300mg — €21.00
+- Tiana Raw Active Wild Forest Honey 250g — €16.99
+- Holland & Barrett Walnut Halves 400g — €11.49
+- Faith in Nature Fragrance Free Body Wash 5L — €42.20
+- Faith in Nature Unfragranced Seaweed Soap 100g — €4.50
+- Holland & Barrett Enteric Coated Odourless Garlic 1000mg 60 Tablets — €5.25
+- Solgar Vitamin D3 4000IU 120 Vegetable Capsules — €33.20
+- Dr Organic Aloe Vera Toothpaste 100ml — €7.79
+- Holland & Barrett ABC to Z Multivitamins & Minerals 240 Tablets — €17.59
+- Miaroma Organic Castor Base Oil 100ml — €4.34
+- Holland & Barrett Debittered Brewer's Yeast 3000mg 480 Tablets — €8.24
+- Holland & Barrett High Strength Aloe Vera 10,000mg 90 Tablets — €10.74
+- Holland & Barrett Dried Blueberries 90g — €6.89
+- Holland & Barrett Organic Dates 420g — €7.49
+- Holland & Barrett Mixed Nuts & Raisins 200g — €6.49
+- Probio7 Advanced Formula Economy Size 60 Capsules — €41.59
+- Dr. PawPaw Ultimate Red Balm 10ml — €6.49
+- Holland & Barrett Cranberry & Blueberry Mix 420g — €9.89
+- Vitaskin Daily Protect SPF 15 Moisturiser — €19.99
+- Holland & Barrett Omega 3 Fish Oil + D3 1200mg 120 Capsules — €32.49
+- Optibac Gut Health Gummies 30 Gummies — €16.99
+- Egmont Honey Manuka Honey MGO 70+ 250g — €14.99
+- Naturtint Hair Food Quinoa Colour & Shine Mask 150ml — €9.99
+- Weleda Stretch Mark Oil 100ml — €20.43
+- Nature Spell Coconut Treatment Oil For Hair & Body 150ml — €9.49
+- Holland & Barrett Folic Acid 400ug 180 Tablets — €8.25
+- Brain Health Raspberry & Dark Chocolate Fruit & Oat Bar 40g — €2.60
+- Faith in Nature Fragrance Free Conditioner 5L — €52.25
+- Miaroma Rosemary Pure Essential Oil 10ml — €5.69
+- Egmont Honey Manuka Honey MGO 40+ 500g — €22.49
+- Holland & Barrett High Strength Slow Release Vitamin C 1500mg 120 Tablets — €11.24
+- Holland & Barrett Vegetarian Vitamin D 1000 I.U. 25ug 30 Gummies — €4.04
+- RJs Natural Licorice 300g — €5.19
+- Unrooted Turmeric & Ginger Health Shot 60ml — €2.17
+- Vita Coco Original Coconut Water 1L — €3.20
+- Holland & Barrett Milk Thistle 100mg 60 Capsules — €12.49
+- Eat Real Quinoa Chips Sour Cream & Chive 40g — €1.70
+- Eat Real Chilli & Lemon Lentil Chips 40g — €1.70
+- Eat Water Organic Slim Rice 270g — €3.49
+- Holland & Barrett ABC to Z Multivitamins & Minerals 60 Tablets — €3.10
+- Eat Water Organic Slim Noodles 270g — €3.49
+- Kallo Beetroot & Balsamic Veggie Cakes 122g — €2.62
+- Holland & Barrett Dark Chocolate Hazelnuts 30g — €2.19
+- Holland & Barrett High Strength Cranberry Extract 400mg 30 Tablets — €3.25
+- Holland & Barrett Zero Carb Noodles 270g — €2.33
+- Holland & Barrett Pure Cod Liver Oil 500mg 30 Capsules — €3.99
+- Oliva Pure Olive Oil Soap 125g — €3.90
+- Holland & Barrett Zero Carb Rice 270g — €2.33
+- Kallo Protein Lentil Cakes 100g — €2.25
+- Holland & Barrett Watermelon Chips 18g — €1.69
+- Holland & Barrett Soy Protein Mince 250g — €3.10
+- Holland & Barrett Apple Chips 20g — €1.69
+- Holland & Barrett Calcium + Magnesium & Vitamin D 60 Tablets — €2.92
+- Holland & Barrett Dark Chocolate Raspberry Almonds 30g — €2.19
+- Holland & Barrett Calcium + Magnesium & Vitamin D 120 Tablets — €4.70
+- Holland & Barrett Multivitamin Effervescent 20 Tablets — €1.63
+- Holland & Barrett Pineapple Chips 18g — €1.69
+- Holland & Barrett Calcium + Vitamin D 600mg 60 Tablets — €2.25
+- Holland & Barrett High Strength Cranberry Extract 400mg 60 Tablets — €6.20
+- Rowse Organic Clear Honey 680g — €5.50
+- Zooki Liposomal Glutathione 500mg Capsules 60 Capsules — €48.99
+- Holland & Barrett Magnesium Glycinate 375mg 90 Capsules — €18.99
+- Holland & Barrett Vit B Complex Gummy 60 Chewables — €6.50
+- Holland & Barrett Turmeric & Manuka Honey Popcorn 20g — €1.99
+- Holland & Barrett Dark Chocolate Matcha Almonds 30g — €2.19
+- Holland & Barrett Multivitamins & Iron 60 Tablets — €2.50
+- Yogi Tea Organic Detox Tea (Liquorice, Dandelion & Cinnamon) 17x Tea Bags — €4.49
+- Holland & Barrett Popcorn Raspberry & Liquorice 21g — €1.99
+- Twinings Superblends Glow 20 Tea Bags — €2.93
+- Holland & Barrett Dark Chocolate Blueberries 25g — €2.20
+- Vitabiotics Ultra Omega-3 60 Capsules — €13.49
+- The Beginnings Soft Baked Seed Crackers 80g — €4.89
+- Holland & Barrett Pure Cod Liver Oil 1000mg 120 Capsules — €19.99
+- Yfood Ready to Drink Complete Meal  Fresh Berry Drink 500ml — €3.50
+- Holland & Barrett Bromelain 90 Tablets — €13.64
+- Pukka Gorgeous Earl Grey 20 Tea Bags — €6.19
+- Pukka Elegant English Breakfast 20 Tea Bags — €6.19
+- Dr Organic Moroccan Argan Oil Hair Mask 200ml — €12.99
+- Weleda Baby Calendula All Purpose Balm 25g — €7.87
+- Manuka Doctor Manuka Honey 540 MGO 500g — €120.00
+- Holland & Barrett Spirulina 500mg 200 Tablets — €20.47
+- Holland & Barrett Wellmune Vitamin Complex Orange Flavour Powder 30 Sachets — €14.99
+- Dr Organic Tea Tree Mouthwash 500ml — €9.69
+- Holland & Barrett Vegan Collagen Support Powder — €21.00
+- Twinings Superblends Digest Ginger & Turmeric with Fig 20 Teabags — €3.14
+- Applied Nutrition Critical Greens Powder Lemon & Lime 150g — €12.00
+- Tribe Protein Muesli Chocolate Hazelnut 400g — €4.00
+- Probio7 Advanced Formula 30 Capsules — €17.24
+- Solgar L-Glutamine 1000mg 50 Tablets — €26.50
+- Dr Organic Manuka Honey Body Butter 200ml — €15.49
+- REN Bio Retinoid™ Youth Cream 50ml — €50.61
+- Organic Gluten Free Chocolate Stars Breakfast Cereal 300g — €3.40
+- Naturya Porridge Mixed Berry 375g — €3.12
+- Holland & Barrett Pumpkin Seeds 1kg — €13.99
+- Manilife Deep Roast Crunchy Peanut Butter 275g — €4.38
+- Vitaskin Vitamin C Collagen Boosting Serum — €22.99
+- Holland & Barrett Organic Pumpkin Seeds 500g — €13.99
+- Holland & Barrett Crunchy Banana Chips 210g — €3.99
+- Holland & Barrett Co-Q10 50mg 30 Tablets — €12.99
+- Holland & Barrett Live Friendly Bacteria Strawberry Flavour 120 Chewable Tablets — €15.59
+- Deeply Gut Health Food With Prebiotic Plant Fibre Spinach & Kiwi With Seaweed Multipack 4 x 455ml — €68.24
+- PROCEIVE® Omega 3 60 Capsules — €17.24
+- Solgar Gentle Iron 20mg 90 Vegi Capsules — €14.40
+- Holland & Barrett Calcium 600mg & Vit D 240 Tablets — €20.49
+- Holland & Barrett Folic Acid 400ug 90 Tablets — €5.49
+- Yfood Ready to Drink Complete Meal Cold Brew Coffee Drink 500ml — €3.50
+- Holland & Barrett Vegan High Strength Flaxseed Triple Omega 3-6-9 Oil 120 Capsules — €29.99
+- Garden of Life Microbiome Once Daily Ultra 30 Capsules — €32.74
+- Dr Organic Vitamin E Body Lotion 200ml — €11.49
+- Applied Nutrition Marine Collagen 10 Sachets — €24.00
+- Vitabiotics Pregnacare Breastfeeding 84 Tablets — €30.79
+- Miaroma Sweet Almond Base Oil 500ml — €12.72
+- PhD Diet Whey Protein Powder Mango 600g — €18.00
+- Dr Organic Sweet Orange Pure Essential Oil 10ml — €5.52
+- Ecodenta Whitening Toothpaste with Bergamot & Lemon 100ml — €8.29
+- Holland & Barrett Matcha Tea 500mg 100 Capsules — €18.89
+- Zooki Liposomal Vitamin C 1,000mg, Citrus Orange Flavour 1x15ml Liquid Sachets — €3.99
+- Plant Protein Bar Dark Chocolate Raspberry 60g — €2.60
+- Weleda Lavender Body Oil 100ml — €19.46
+- Evolve Rosehip Miracle Facial Oil 30ml — €29.24
+- Tisserand Little Box of Mindfulness Rollerball Kit 3x10ml — €23.49
+- Wibble Vegan Variety Pack Jelly Crystals (Raspberry, Forest Fruits, Strawberry & Orange) 456g — €9.75
+- Holland & Barrett Folic Acid & Vitamin D3 90 Tablets — €9.09
+- H&B Expert Calm Daily Support Saffron 30 Capsules — €21.74
+- Vitabiotics Cardioace Plus 60 Capsules — €30.85
+- Holland & Barrett Chopped Dried Dates 250g — €3.59
+- Solgar Methylcobalamin 1000µg 30 Nuggets — €16.79
+- Weleda Floral Fresh Deo Spray 100ml — €16.08
+- Holland & Barrett High Strength Chelated Zinc & Copper 120 Tablets — €8.74
+- Faith in Nature - Grapefruit & Orange Body Wash 5L — €42.20
+- Nutrigen Vitamixin Sprinkles 30 Sachets — €5.45
+- Holland & Barrett Raspberry Ketones Energy Formula 120 Capsules — €30.59
+- Grass & Co. GLOW Nourishing 300mg CBD Face Oil 30ml — €16.46
+- Faith in Nature Fragrance Free Body Wash 400ml — €8.79
+- Nakd Fruit & Fibre Strawberry & Raspberry Bars 16x 44g — €20.16
+- Fullgreen Riced Cauliflower & Broccoli 200g — €2.00
+- Restore Electrolytes Unflavoured 30 x 3g Sachet — €31.50
+- Spruce Raspberry & Elderflower Water Infusions (12 Sachets) — €5.84
+- Holland & Barrett Walnut Halves 800g — €20.99
+- Viviscal Man Healthy Hair Vitamins 60 Tablets — €41.09
+- Tisserand Total De-Stress Roller Ball 10ml — €12.49
+- Restore Electrolytes Mixed Berry 30 x 5.9g Sachet — €31.50
+- Nature's Aid DHA Drops Lemon 50ml — €13.99
+- Weleda Ratanhia Mouthwash 50ml — €10.23
+- Dose & Co Dairy-Free Collagen Creamer Vanilla 340g — €36.99
+- Balmonds Hydrating Body Oil 200ml — €13.06
+- Holland & Barrett Immunity Superfood Blend 150g — €26.00
+- Twinings Superblends Immune Support with Vitamin D 20 Tea Bags — €2.93
+- Holland & Barrett Ground Almonds 350g — €8.09
+- Linwoods Immune Support Flaxseed & Hemp Seed Blend 210g — €7.99
+- Fearne & Rosie Reduced Sugar Superberry Jam 310g — €3.15
+- Hairburst Shampoo x 350ml & Conditioner x 350ml Set — €38.99
+- Holland & Barrett Ginger Root Extract 120 Capsules — €9.10
+- Pukka Organic Radiance 20 Tea Bags — €6.19
+- Solgar Natural Cranberry with Vitamin C 60 Vegi Capsules — €18.80
+- Dose & Co Pure Collagen 567g — €37.49
+- It's Pure Organic Herbal Hair Colour Natural Brown 110g — €16.50
+- Hydration+ Powder Blue Raspberry 240g — €18.00
+- Grenade Oreo Flavoured Protein Bar 60g — €4.80
+- Dr Organic Royal Jelly Leg & Vein Cream 200ml — €14.79
+- Dr Organic Rose Otto Eye Serum 15ml — €13.49
+- Holland & Barrett Super Green Tea Diet 60 Tablets — €15.75
+- Holland & Barrett MSM 750mg 120 Tablets — €6.83
+- Holland & Barrett Toasted Coconut 210g — €3.25
+- Weleda Sea Buckthorn Body Oil 100ml — €21.37
+- Yogi Tea Organic Rose 17 Tea Bags — €3.89
+- Holland & Barrett Chewable Liquorice 760mg 60 Tablets — €8.25
+- Solgar Chelated Magnesium 100 Tablets — €16.00
+- Dr. PawPaw Lip Balm SPF Repair and Protect 8ml — €6.44
+- Odysea Pine & Fir Tree Honey 250g — €7.20
+- Holland & Barrett Peanut and Cacao Bites 80g — €4.55
+- Zooki Hydration+ Energy & Focus, Peach Flavour 30 Sachets — €47.99
+- Barebells Soft Protein Bar Peanut Caramel 55g — €3.50
+- Holland & Barrett Soft Apricots 420g — €8.79
+- Q+A Vitamin C Brightening Serum 30ml — €12.50
+- Viviscal Man Healthy Hair Vitamins 180 Tablets — €85.79
+- Yogi Tea Immune Support Tea (Echinacea, Acerola Cherry & Elderberry) 17x Tea Bags — €4.49
+- Faith in Nature Seaweed & Citrus Conditioner 5L — €52.25
+- Cheerful Buddha Lion's Mane Mushroom Black Tea 15 Tea Bags — €6.49
+- L-Glutamine 500mg 100 Tablets — €19.50
+- Dr Organic Healthy Ageing Snail Gel Facial Serum 30ml — €26.49
+- Salt of the Earth - Vetiver & Citrus Natural Deodorant Roll-on 75ml — €6.02
+- Holland & Barrett Soft Apricots 800g — €16.49
+- TriActive Pre-Workout Electrolyte Effervescent Mango 20 Tablets — €10.00
+- Dr Organic Tea Tree Shampoo 265ml — €8.99
+- Applied Nutrition Coleen Rooney Immunity Support Blueberry & Raspberry  14 x 5g Sachets — €18.74
+- Holland & Barrett Fruitfetti Banana & Blueberry 30g — €3.89
+- Barebells Protein Bar Caramel Cashew 55g — €3.50
+- USN Liv.Smart Slim Shake Meal Replacement Chocolate Brownie 550g — €20.00
+- Vitabiotics Wellkid Immune 30 Chewables — €13.25
+- Evolve Radiant Glow 2-In-1 Mask Scrub 60ml — €24.36
+- Holland & Barrett Bioactive Collagen Peptides Unflavoured Powder 153g — €19.00
+- Holland & Barrett Curried Lentil Soup 300g — €3.49
+- Holland & Barrett Lightly Salted Peanuts, Cashews & Pistachios 210g — €6.25
+- Holland & Barrett High Strength Triple Omega 3-6-9 60 Capsules — €25.49
+- Holland & Barrett  Ultra Woman 50+ 90 Tablets — €25.39
+- L-Arginine 500mg 50 Capsules — €7.00
+- N-Acetyl Cysteine 600mg 30 Capsules — €13.00
+- Dr Organic Manuka Honey Body Lotion 200ml — €11.49
+- Aduna Baobab Superfruit Powder 275g — €19.99
+- Holland & Barrett Sunflower Seeds 500g — €7.49
+- Salt of the Earth - Melon & Cucumber Natural Deodorant Refillable Spray 100ml — €6.35
+- Burt's Bees Mama Bee Belly Butter 185g — €18.99
+- Dr Organic 100% Pure Castor Oil 250ml — €8.70
+- Miaroma Frankincense Pure Essential Oil 20ml — €21.77
+- Barebells Protein Bar Cookies & Cream 55g — €3.50
+- Miaroma Tea Tree Pure Essential Oil 10ml — €5.69
+- Holland & Barrett Saffron 30mg 30 Capsules — €15.74
+- Holland and Barrett Menopause Bone Nutrition Support 60 Capsules — €16.50
+- Holland & Barrett Chewable Acidophilus Strawberry (3 Billion) 120 Tablets — €22.09
+- Faith In Nature Dragon Fruit Shampoo 400ml — €10.99
+- Dr Organic Vitamin E Scar & Stretch Mark Serum 50ml — €13.49
+- Odysea Balsamic Vinegar Glaze 250ml — €3.19
+- Holland & Barrett Dried Cranberries 120g — €4.49
+- Applied Nutrition BCAA Amino Hydrate Icy Blue Raz 450g — €24.00
+- Weleda Stretch Mark Body Butter 150ml — €21.37
+- Nutrigen Inulin Powder Drink Mix 10 Sachets — €4.15
+- Grenade Cookie Dough Protein Bar 60g — €4.80
+- Starpowa Perimenopause Support 60 Gummies — €23.49
+- Vitaskin Vitamin C Anti-Pollution Glow Day Cream — €19.99
+- Faith in Nature Dragon Fruit Conditioner 5 Litre — €52.25
+- Holland & Barrett D Mannose Powder 90g — €13.49
+- Holland & Barrett Hair Vitamins 120 Tablets — €26.65
+- Holland & Barrett Dark & Orangey Trail Mix 210g — €6.49
+- Nature's Garden Green Tea 315mg 100 Tablets — €12.50
+- Burt's Bees 100% Natural Lip Balm Mango 4.25g — €4.69
+- Pukka Relax Tea 20 Tea Bags — €6.19
+- Nature Spell Moringa Oil For Hair & Body 150ml — €9.49
+- It's Pure Organic Herbal Hair Colour Henna Red 100g — €15.50
+- Restore Electrolytes Lemon & Lime 30 x 5.1g Sachet — €31.50
+- PhD Smart Bar Plant Salted Caramel Protein Bar 64g — €3.30
+- Vitaskin Vitamin A Rejuvenating Night Cream — €20.00
+- Manuka Doctor Manuka Honey 1200 MGO 250g — €155.00
+- Faith in Nature Lavender & Geranium Body Wash - 500ml Aluminium — €10.39
+- Holland & Barrett Acacia Honey 340g — €7.00
+- Eat Water Organic Slim Pasta Spaghetti 270g — €3.49
+- Sukin Sensitive Calming Night Cream — €14.62
+- Holland & Barrett Mushroom Chips 10g — €1.95
+- Vitl Sweet Sleep 30 Capsules — €12.99
+- Faith in Nature Coconut Hand & Body Lotion 400ml — €10.40
+- Naturtint Permanent Hair Colour 10A (Light Ash Blonde) — €18.00
+- Dr Organic Manuka Honey Shampoo 265ml — €9.49
+- DAME Regular Washable Period Pad — €10.71
+- Holland & Barrett Blanched Whole Almonds 100g — €2.99
+- Holland & Barrett Zinc 25mg 120 Tablets — €10.49
+- DAME Washable Period Pad Night / Ultra — €12.66
+- Westlab Dead Sea Salt 1kg — €3.90
+- Hydro Plus Immune Support 30 Sachets — €28.80
+- Health & Him Desire Multi-Nutrient Support 60 Capsules — €23.99
+- Grenade Caramel Chaos Protein Bar 60g — €4.80
+- Naturtint Permanent Hair Colour 3N (Dark Chestnut Brown) — €18.00
+- Holland & Barrett Energy Kombucha 250ml — €2.40
+- Haliborange Disney Toy Story Calcium & Vitamin D 60 Strawberry Flavour Softies — €11.24
+- Holland & Barrett Mixed Nut Pieces 400g — €11.49
+- Holland & Barrett Lucuma Powder 100g — €9.10
+- Holland & Barrett High Strength Gentle Vitamin C 1000mg 60 Tablets — €8.00
+- Hydro Plus Energy & Focus 30 Sachets — €28.80
+- Natures Aid Super Stars Immune Support 60 Tablets — €8.99
+- Holland & Barrett Teen Brain Health With Omega 60 Softgel Capsule — €7.27
+- Fushi Fresh Pressed Organic Tamanu Oil 50ml — €17.95
+- Holland & Barrett Multivitamins 240 Tablets — €10.49
+- Zooki Hydration+ Exercise & Recover, Cherry 30 Sachets — €47.99
+- Miaroma A Sense of Calm Diffuser Oil 10ml — €7.03
+- Health & Her HRT Multivitamin Support 60 Tablets — €16.79
+- Nature Spell Travel Size Rosemary Oil for Hair 50ml — €6.99
+- Berocca Immuno Gummies Orange 60 Gummy — €15.47
+- Manuka Doctor Manuka Honey MGO 40 500g — €44.99
+- Holland & Barrett Bovine Collagen Unflavoured Powder 150g — €15.99
+- Holland & Barrett Baobab Powder 100g — €9.10
+- Wild Nutrition Energy Support 60 Capsules — €28.49
+- Balmonds Super 7 Serum 30ml — €17.42
+- Holland & Barrett Korean Ginseng 90 Capsules — €12.99
+- BetterYou Magnesium Sleep Spray 100ml — €15.59
+- Holland & Barrett Vitamin C & Zinc 120 Tablets — €15.49
+- Dr Organic Vitamin E Cream 50ml — €15.99
+- Myprotein Impact Pre-Workout Orange, Mango & Passionfruit 150g — €10.50
+- Q+A Niacinamide SPF50 Balancing Daily Facial Sunscreen 50ml — €15.60
+- H&B Expert High Strength Triple Action Immune Support 60 Capsules — €26.99
+- Weleda - Nipple Balm 25g — €8.73
+- Solgar Formula VM-75 90 Tablets — €36.40
+- PROCEIVE® Max Women Advanced Fertility Supplement 30 Sachets — €66.63
+- Holland & Barrett Vitamin D3 1000 I.U 25ug 240 Tablets — €15.49
+- TriActive Stainless Steel Shaker 750ML — €15.00
+- Burt's Bees Lip Balm Honey 4.25g — €4.69
+- Holland and Barrett Expert Beauty Sleep Collagen Chocolate 306g — €44.99
+- Vitabiotics Wellteen Him Plus 56 Tablets — €25.20
+- Manuka Doctor Premium Monofloral Manuka Honey MGO 340 250g — €59.99
+- PhD Smart Protein Plant Strawberry 500g — €18.00
+- Miaroma A Relaxing Night’s Sleep Body Oil 100ml — €7.03
+- Holland & Barrett High Strength Turmeric 600mg plus Boswellia & Ginger 90 Capsules — €16.25
+- Vitabiotics Perfectil 30 Tablets — €16.19
+- Naturtint 'Curly' Curl Definer Oil Repair 50ml — €25.99
+- Holland & Barrett Enteric Coated Odourless Garlic 500mg 30 Tablets — €4.49
+- Holland & Barrett Activated Charcoal 240 Capsules — €24.99
+- Holland & Barrett Cashew Splits 200g — €4.99
+- Neubria Neu Him Male Multivitamin 30 Tablets — €7.49
+- Holland & Barrett Omega 3 Fish Oil 1500mg 60 Capsules — €20.99
+- Naturtint Permanent Hair Colour 4N (Natural Chestnut) — €18.00
+- Naturtint Permanent Hair Colour Gel 4NC (Deep Cappucino Brown) — €17.49
+- Holland & Barrett 8 Plant Black Bean Stir Fry Sauce 190g — €3.89
+- Holland & Barrett Tribiotic Metabolism 60 Capsules — €20.00
+- Vitabiotics Perfectil Platinum Collagen Skin Drink 10x50ml — €53.29
+- Wild Nutrition Immune Support: 60 Capsules — €32.62
+- Sukin Volumising Conditioner 500ml — €6.14
+- Pro-ven Biotics Women’s Lactobacillus With Cranberry 30 Capsules — €19.49
+- Neubria Neu Her Female Multivitamin 30 Tablets — €7.49
+- Ecodenta Refreshing Whitening Toothpaste With Amber Extract 100ml — €8.29
+- Macu-SAVE One a Day Eye Health 90 Capsules — €44.99
+- Isopure Whey Protein Isolate Vanilla 435g — €28.00
+- Dose & Co Marine Collagen 221g — €32.24
+- Fourfive Energy & Focus Lion's Mane 4000mg 60 Capsules — €28.49
+- Holland & Barrett Vitamin C 1000mg 240 Tablets — €20.49
+- Pura Collagen flex+ Advanced Collagen PLUS Formula 282g — €38.99
+- Holland & Barrett Cold Pressed Pumpkin Seed Oil 1000mg 90 Capsules — €24.69
+- Holland & Barrett Skin, Hair & Nails Formula 30 Tablets — €10.49
+- PROCEIVE® After Pregnancy Breastfeeding 60 Capsules — €19.49
+- Revive Active - Orange & Mango 30 Sachets — €62.99
+- Manuka Doctor Premium Monofloral Manuka Honey MGO 100 500g — €69.99
+- Grass & Co. BIOME Chaga Mushrooms Powder with Turmeric + Ginger 100g — €17.99
+- BCAA 120 Capsules — €21.00
+- Deliciously Ella Energy Ball Cacao & Almond 40g — €2.59
+- Form Nutrition Performance Protein Chocolate Peanut 520g — €29.50
+- Manuka Doctor Monofloral Manuka Honey MGO 640 250g — €69.99
+- Yfood Ready to Drink Complete Meal Smooth Vanilla Drink 500ml — €3.50
+- Holland & Barrett Omega 3 Fish Oil 1500mg 240 Capsules — €62.49
+- PROCEIVE® Women & Men Dual Pack Advanced Fertility Supplement 120 Capsules — €43.86
+- Simplee Aloe Organic Aloe Vera Juice 1 litre — €23.49
+- H&B Expert Sleep Unwind Tonic 150ml — €9.74
+- Applied Nutrition Coleen Rooney Marine Collagen 10,000mg Citrus Flavour 14 x 12.5g Sachets — €28.49
+- Faith in Nature Wild Rose Hand Wash 5 Litre — €43.54
+- Meridian Smooth Cashew Butter 1kg — €16.95
+- Dr Organic Pure Jojoba Oil 100ml — €11.05
+- Solgar Taurine 500mg Vegetable 50 Capsules — €12.50
+- Vitabiotics Perfectil Plus Hair 60 Tablets — €37.49
+- Rude Health Organic Oat M*lk 6x 1L — €13.49
+- Holland & Barrett Menopause Complex 60 Tablets — €18.99
+- Manuka Doctor Monofloral Manuka Honey MGO 740 250g — €84.99
+- Marine Collagen Strawberry Raspberry 10 Sachets — €24.00
+- Holland & Barrett Vitamin D 3000 I.U. 75ug 120 Tablets — €18.99
+- Holland & Barrett Psyllium Husk 180 Capsules — €22.99
+- Holland & Barrett Soya Isoflavones 750mg 120 Capsules — €28.59
+- Myvegan Plant Protein Superblend Iced Coffee 560g — €16.25
+- Applied Nutrition Coleen Rooney Debloat Lemon, Ginger & Turmeric 14 x  9.1g Sachets — €23.99
+- Vitabiotics Wellteen Her Plus 56 Tablets — €25.20
+- Holland & Barrett Cold Pressed Evening Primrose Oil 1000mg 120 Capsules — €34.99
+- Performance Pre Workout Pineapple & Orange 440g — €23.00
+- Solgar Boron 3mg Vegetable 100 Capsules — €13.50
+- Dr Organic Rosemary Pure Essential Oil 10ml — €7.37
+- Grahams Natural Baby Eczema Cream — €25.99
+- Sukin Moisture Restoring Night Cream — €15.81
+- Holland & Barrett Pure Cod Liver Oil 1000mg 60 Capsules — €10.79
+- Probio7 Original 100 Capsules — €34.11
+- Holland & Barrett Tomato, Bean & Herb Soup 300g — €3.49
+- Solgar Digestive Enzymes 100 Tablets — €24.00
+- Revive Active Tropical 30 Sachets — €62.99
+- Mindful Extracts Organic Lion’s Mane Mushroom Extract 60 Vegan Capsules — €37.49
+- Faith in Nature Coconut Body Wash 5L — €42.20
+- Holland & Barrett Ginger Flapjack 80g — €2.29
+- Form Nutrition Performance Protein Chocolate Hazelnut 520g — €29.50
+- Dr Organic Skin Calm Probiotic Cream Cleanser 150ml — €15.99
+- Miaroma Wheatgerm Base Oil 100ml — €6.03
+- Holland & Barrett Skin, Hair & Nails Formula 180 Tablets — €34.99
+- Holland & Barrett Zinc 15mg 240 Tablets — €7.00
+- Faith in Nature - Lavender Shampoo 5L — €52.25
+- High Strength CLA 1200mg 90 Capsules — €32.50
+- Hydro Plus Everyday Recovery 30 Sachets — €28.80
+- Holland & Barrett Vegan Vitamin D 3000 I.U. 75ug 90 Tablets — €9.49
+- Holland & Barrett Bovine Collagen 3000mg 30 Tablets — €10.99
+- Pharma Nord Omega 7 Sea Buckthorn Oil 60 Capsules — €27.99
+- Holland & Barrett High Protein Ragu 300g — €3.49
+- Balmonds Daily Moisturising Cream 300ml — €26.13
+- Vitabiotics Ultra Turmeric with Black Pepper & Vitamin D 60 Tablets — €18.71
+- Holland & Barrett Evening Primrose & Starflower Oil 1000mg 30 Capsules — €13.99
+- Beauty Dropz Hair Hero  Edible Skincare Llquid Drops Grape Flavour 60ml — €10.04
+- Holland & Barrett Vegan Flaxseed Triple Omega 3-6-9 Oil 60 Capsules — €14.49
+- Holland & Barrett Kids Vitamin C Immune Support Orange Flavour 30mg 30 Gummies — €3.60
+- Holland & Barrett Inositol Powder Complex 4000mg 135g — €33.79
+- Active Iron for Women 60 Capsules — €26.69
+- Miaroma Ylang Ylang Pure Essential Oil 10ml — €8.03
+- Optimum Nutrition Gold Standard 100% Whey Protein Banana Cream 900g — €53.30
+- Holland & Barrett Vegan Triple Omega 3-6-9 Oil 60 Gummies — €24.69
+- Holland & Barrett Triple Omega 3-6-9 120 Capsules — €25.99
+- Optimum Nutrition Gold Standard 100% Whey Protein French Vanilla Crème 900g — €53.30
+- Holland & Barrett Vegan High Strength Flaxseed Triple Omega 3-6-9 Oil 60 Capsules — €18.49
+- Miaroma Pine Pure Essential Oil 10ml — €6.03
+- Manuka Doctor Premium Monofloral Manuka Honey MGO 100 250g — €37.99
+- Holland & Barrett High Strength Glucosamine Sulphate & Chondroitin 120 Tablets — €33.99
+- Holland & Barrett Multi-Digestive Enzyme Formula 90 Tablets — €18.89
+- Solgar Quercetin Complex 50 Vegi Capsules — €21.20
+- Holland & Barrett High Strength Cold Pressed Starflower Oil 1500mg 120 Capsules — €47.99
+- Holland & Barrett Tom Yum Rice Nugget 90g — €4.30
+- Planet Paleo Organic Bone Broth Collagen Protein Ancient Mushrooms 225g — €29.24
+- Grass & Co ACTIVE Super Greens Powder 120g — €18.49
+- Manuka Doctor Premium Monofloral Manuka Honey MGO 240 250g — €52.00
+- USN Liv.Smart Slim Shake Meal Replacement Strawberries & Cream 550g — €15.00
+- Naturtint Permanent Hair Colour Gel 3WN (Radiant Nature Dark Brown) — €17.50
+- Dr Organic Ylang Ylang Pure Essential Oil 10ml — €12.39
+- TriActive Super Good Bar Cashew & Apricot 12 x 50g — €35.10
+- Holland & Barrett Pecan Halves 400g — €12.49
+- REN Glycol Lactic Radiance Renewal Mask — €40.95
+- Optimum Nutrition Gold Standard 100% Whey Protein Extreme Milk Chocolate 896g — €53.30
+- Holland & Barrett Tummy Love Cocoa Hazelnut Bar with Benefits 40g — €2.59
+- Holland & Barrett Resveratrol 225mg with Red Wine Extract 10mg 60 Capsules — €31.19
+- Holland & Barrett Friendly Bacteria 100 Billion 30 Capsules — €51.99
+- Restore Electrolytes Lemon & Lime 7 x 5.1g Sachet — €9.00
+- Jack N' Jill Silicone Toothbrush Stage 2 — €7.00
+- Wild Nutrition Vitamin C Plus 60 Capsules — €24.74
+- PROCEIVE® Max Men Advanced Fertility Supplement 30 Sachets — €48.71
+- Optimum Nutrition Gold Standard 100% Whey Protein Strawberry 900g — €53.30
+- It's Pure Organic Herbal Hair Colour Very Dark Brown 110g — €16.50
+- Natures Aid Vitamin D3 Drops for Children 50ml — €7.26
+- Faith in Nature Wild Rose Conditioner 5L — €52.25
+- Holland & Barrett Whole Almonds 800g — €18.49
+- Floradix Vitamin-B Complex Liquid Vitamin Formula 250ml — €22.79
+- Floradix Kindervital Fruity Multivitamin Formula 250ml — €19.49
+- Faith in Nature Dragon Fruit Shampoo 5L — €52.25
+- Manuka Doctor Monofloral Manuka Honey MGO 840 250g — €89.99
+- Applied Nutrition ABE Ultimate Pre Workout Candy Ice Blast 375g — €27.00
+- Optimum Nutrition Gold Standard Pre Workout Fruit Punch 330g — €32.00
+- Naturya Porridge Apple & Cinnamon 375g — €3.12
+- Egmont Manuka Honey 1200+ MGO 250g — €94.99
+- Holland & Barrett Triple Omega 3-6-9 60 Capsules — €16.24
+- Boundless Sea Salt & Cider Vinegar Activated Chips 80g — €2.99
+- DAME Regular Cotton Tampons 16 Pack — €3.74
+- Neubiotic Her Probiotic For Women 30 Capsules — €25.99
+- Optimum Nutrition Gold Standard 100% Isolate Protein Chocolate 930g — €52.00
+- Dr Organic Vitamin C Facial Oil with Guava 30ml — €16.99
+- Optimum Nutrition Gold Standard 100% Isolate Protein Vanilla 930g — €52.00
+- Naturtint Hair Food Purple Rice Moisturising Mask 150ml — €9.69
+- L-Tyrosine 500mg 50 Capsules — €13.00
+- PROCEIVE® Pregnancy Trimester 2 60 Capsules — €17.99
+- Sukin Brightening Radiance Cleanser 125ml — €9.75
+- Optimum Nutrition Gold Standard 100% Whey Protein Chocolate Hazelnut 896g — €53.30
+- Holland & Barrett Mixed Nuts & Raisins 850g — €19.49
+- Bluey Multivitamin Strawberry Flavour Gummies 30 Gummies — €11.19
+- Faith In Nature Grapefruit & Orange Shampoo 5L — €77.99
+- Holland & Barrett Omega 3 Fish Oil 1200mg 120 Capsules — €31.19
+- Miaroma Cinnamon Leaf Pure Essential Oil 10ml — €6.53
+- Hunter & Gather 100% Organic Coconut Pure C8 MCT Oil 500ml — €22.42
+- Probio7 Digestive Health Supplement Ultra 100 Billion 30 Capsules — €44.24
+- PROCEIVE® Conception Omega 3 60 Capsules — €19.49
+- Holland & Barrett ABC to Z Multivitamins & Minerals 120 Tablets — €10.49
+- Naturtint Permanent Hair Colour 2N (Brown Black) — €18.00
+- Holland & Barrett Dried Mango Slices 210g — €9.59
+- Holland & Barrett Vegan Biotin Hair Complex 30 Gummies — €21.45
+- Optima Healthcare Activ Juice Cherry 1l — €14.99
+- Arkopharma Organic Royal Jelly 150ml — €18.49
+- Faith in Nature Wild Rose Shampoo 5L — €52.25
+- Optimum Nutrition Gold Standard 100% Whey Protein Cookies & Cream 896g — €53.30
+- Grenade Fudged Up Protein Bar 60g — €4.80
+- Vitabiotics Wellkid Multivitamin Liquid 150ml — €10.13
+- Beauty Dropz Niacinamide Edible Skincare 60ml — €10.04
+- Applied Nutrition Coleen Rooney Immunity Support Blood Orange & Grapefruit Flavour 14 x 5g Sachets — €18.74
+- Floravital Herbal Iron and Vitamin Formula 250ml — €19.99
+- Holland & Barrett High Strength Co-Q10 100mg 30 Capsules — €25.99
+- Solgar Skin, Nails and Hair Formula 120 Tablets — €26.40
+- Revive Collagen Peri Menopause Hydrolysed Marine Collagen 5,000mgs 14 days Supply — €38.39
+- PhD Diet Whey Protein  Powder Belgian Chocolate 600g — €18.00
+- Holland & Barrett Vitamin E 400iu 240 Capsules — €43.54
+- Holland & Barrett Calcium + Magnesium & Vitamin D 180 Tablets — €12.99
+- Holland & Barrett Enteric Coated Odourless Garlic 1000mg 120 Tablets — €14.49
+- L-Carnitine 500mg 60 Tablets — €34.00
+- DAME Self-Sanitising Period Cup Size Large — €27.00
+- USN Liv.Smart Slim Shake Meal Replacement Vanilla 550g — €15.00
+- Holland & Barrett Tremella Mushroom Powder 100g — €31.99
+- Optimum Nutrition Gold Standard 100% Isolate Protein Strawberry 930g — €52.00
+- Faith in Nature Wild Rose Body Wash 5L — €43.54
+- PROCEIVE® Pregnancy Trimester 1 60 Capsules — €17.24
+- Faith in Nature Dragon Fruit Hand Wash 5 Litre — €42.20
+- Pro-ven Biotics 50 Billion Shapeline 30 Capsules — €30.74
+- Wild Nutrition Pregnancy & New Mother Biotic for Women 30 Capsules — €38.25
+- Jude Bladder Health Supplements 60 Capsules — €39.59
+- Ricola Lemon Mint Herbal Sweets Box 45g — €1.89
+- Yogi Tea Classic Organic Cinnamon Spice Tea 17 Tea Bags — €3.89
+- Holland & Barrett Vitamin D3 400 I.U. 10ug 120 Tablets — €2.10
+- Holland & Barrett High Strength Effervescent Vit C & Zinc Orange Flavour 20 Tablets — €2.04
+- Holland & Barrett Popcorn Seaweed, Kale & Black Pepper 18g — €1.99
+- Holland & Barrett Popcorn Barely Salted 15g — €1.99
+- Full Green Riced Cauliflower 200g — €1.86
+- Ecodenta Certified Organic Anti-plaque Toothpaste with Coconut Oil 75ml — €8.89
+- Pip & Nut Peanut Butter Stuffed Apple & Cinnamon Oat Bar 48g — €2.09
+- Holland & Barrett Enteric Coated Odourless Garlic 500mg 120 Tablets — €4.50
+- Holland & Barrett Baby & Toddler Essential Multivit Drops 30ml — €3.15
+- Holland & Barrett Chia Seeds 400g — €6.59
+- Holland & Barrett Zero Carb Tagliatelle 270g — €2.33
+- Bounce Dipped Chocolate Hazelnut Praline Plant Protein Ball 40g — €2.99
+- Holland & Barrett Thai Chilli Rice Crackers 112g — €4.50
+- H&B Value Multivitamin 30 Tablets — €1.46
+- Holland & Barrett High Strength Effervescent Vit C & Zinc Blackcurrant Flavour 20 Effervescent Tablets — €2.04
+- Holland & Barrett Pure Cod Liver Oil 1000mg 240 Capsules — €26.99
+- Zooki Liposomal Vitamin C 1,000mg Citrus Orange Flavour 30x15ml Liquid Sachets — €56.99
+- Solgar Collagen Hyaluronic Acid Complex 30 Tablets — €46.40
+- Salt of the Earth - Lavender & Vanilla Natural Deodorant Roll-on 75ml — €6.02
+- Holland & Barrett Vegan Vitamin D  1000 I.U 25ug 30 Gummies — €3.90
+- Kallo Spinach and Pesto Veggie Cakes 122g — €2.62
+- Holland & Barrett Glow Kombucha 4x 250ml — €4.68
+- Holland & Barrett Turmeric 500mg 90 Capsules — €9.49
+- Eat Water Organic Slim Pasta Fettuccine 270g — €3.49
+- Holland & Barrett Vitamin B1 + Thiamine 100mg 120 Tablets — €4.13
+- Holland & Barrett Max Strength Glucosamine & Chondroitin 180 Tablets — €54.99
+- Ricola Liquorice Swiss Herbal Sweets 45g — €1.89
+- Holland & Barrett Bovine Collagen 3000mg 180 Tablets — €40.99
+- Bounce Dipped Chocolate Caramel Millionaire Plant Protein Ball 40g — €2.99
+- Unrooted Good Gut – Apple Cider Vinegar Shot 60ml — €2.27
+- Holland & Barrett Iron + B Vits, Vit C & Minerals 500ml Liquid — €6.50
+- Solgar Biotin 5000µg 100 Vegi Capsules — €38.40
+- Salt Stick Fastchews Lemon & Lime 10 Chewable Tablets — €4.25
+- Manuka Doctor Manuka Honey MGO 70 500g — €58.50
+- Zooki Hydration+ Skin Radiance, Pomegranate Lemon Flavour 30 Sachets — €47.99
+- Holland & Barrett Hormone Support Cocoa Caramel Trail Mix 210g — €6.99
+- Holland & Barrett High Protein Truffle Chickpeas 150g — €4.55
+- Solgar Vitamin C 1000mg 250 Vegi Capsules — €42.00
+- PhD Nutrition Smart Protein Powder Chocolate Brownie 510g — €18.00
+- Health & Him Andropause 55+ Testosterone Support 60 Capsules — €23.99
+- Faith in Nature Fragrance Free Shampoo 5 Litre — €52.25
+- Dr Organic Bergamot Pure Essential Oil 10ml — €10.38
+- Faith in Nature Coconut Hand Wash 5 Litre — €42.20
+- Egmont Honey Manuka Honey MGO 550+ 500g — €54.99
+- Faith in Nature Coconut Conditioner 5 Litres — €47.56
+- Musselflex Green Lipped Mussel Extract & Glucosamine Gel 125ml — €9.74
+- Faith in Nature Dragon Fruit Body Wash 5L — €42.20
+- Grass & Co. RELAX Maitake Mushrooms with Ashwagandha + Magnesium 60 Vegan Capsules — €15.99
+- Naturtint 'Curly' Curl Definer Leave-In Conditioner 200ml — €20.99
+- Applied Nutrition Carb X Unflavoured 1200g — €24.00
+- SiS GO Isotonic Energy Gel Orange 6 x 60ml — €7.00
+- Weleda Birch Cellulite Oil 100ml — €29.21
+- Naturtint Permanent Hair Colour 5G (Light Golden Chestnut) — €18.00
+- Solgar Magnesium Citrate 60 Tablets — €14.40
+- Holland & Barrett Pycnogenol 60mg 30 Capsules — €33.99
+- Holland & Barrett Starflower Oil 60 Capsules 1000mg with Vitamin B6 — €22.99
+- Natures Aid Mini Drops Iron for Infants and Children 50ml — €7.49
+- Holland & Barrett Goji Berries 210g — €8.79
+- Miaroma Frankincense Pure Essential Oil 10ml — €14.07
+- PhD Smart Protein Plant Chocolate Cookie 500g — €18.00
+- Dr. PawPaw Ultimate Red Balm — €9.39
+- Holland & Barrett Selenium 200ug 240 Tablets — €22.75
+- Jack N' Jill Natural Certified Toothpaste Strawberry 50g — €7.00
+- Balmonds Face The Day Spf30 50ml — €18.60
+- Solgar Liquid B12 2000µg with B-Complex 59ml — €20.40
+- Cellucor C4 Original Pre-Workout Orange 180g — €26.50
+- Holland & Barrett Lions Mane Mushroom 100g — €31.99
+- Tisserand Restore Balance Discovery Kit 2x9ml - 1x10ml — €23.49
+- Optimum Nutrition Amino Energy Orange 270g — €27.00
+- Dr Organic Pure Moroccan Argan Oil 50ml — €23.99
+- Holland & Barrett Oil of Peppermint 120 Capsules — €16.99
+- PhD Smart Protein Plant Salted Caramel 500g — €18.00
+- Pukka Organic Morning Berry Tea 20 Teabags — €6.00
+- Holland & Barrett High Strength Chewable Vitamin C 1000mg 120 Tablets — €16.99
+- Dr Organic Aloe Vera Gel 200ml — €10.99
+- Holland & Barrett High Strength Cold Pressed Evening Primrose Oil 1500mg 60 Capsules — €28.99
+- Grass & Co. DREAM Reishi Mushrooms with Magnesium + Sage, 60 Vegan Capsules — €17.17
+- Rowse Squeezy Organic Acacia 340g — €5.50
+- Holland & Barrett Soft Prunes 420g — €7.79
+- Mindful Extracts Organic Reishi Mushroom 60 Vegan Capsules — €28.11
+- Evolve Gentle Cleansing Melt 120ml — €23.24
+- Naturtint Permanent Hair Colour Gel 5GC (Deep Cinnamon Brown) — €17.49
+- Aduna Super-Cacao Premium Blend Cacao Powder 275g — €16.90
+- Dr Organic Snail Gel 50ml — €26.49
+- Holland & Barrett Ultra Soya Lecithin 240 Capsules 1200mg — €33.99
+- Dr Organic Pomegranate Toothpaste 100ml — €7.79
+- Holland & Barrett Glucosamine Chondroitin & MSM Complex Liquid 473ml — €25.99
+- Holland & Barrett Zinc & Copper 15mg 120 Tablets — €7.25
+- Holland & Barrett High Strength Cranberry Extract 400mg 90 Tablets — €17.59
+- Isopure Whey Protein Isolate Chocolate 480g — €28.00
+- Vow Nutrition Creatine Chews Mint 100 Chews — €20.00
+- Solgar Skin, Nails and Hair Formula 60 Tablets — €16.79
+- Holland & Barrett Magnesium 375mg 90 Tablets — €11.99
+- Dr Organic Cinnamon Pure Essential Oil 10ml — €6.86
+- Wild Nutrition Food Grown Breastfeeding Support for Women 90 Capsules — €35.25
+- Applied Nutrition Amino Fuel EAA Powder Candy Ice Blast 390g — €24.00
+- Creatine Monohydrate 700mg 120 Capsules — €32.50
+- Optimum Nutrition Electrolyte Powder Lemon 264g — €8.00
+- Viviscal Healthy Hair Vitamins 30 Tablets — €26.24
+- Fushi Organic Shea Butter Original 200g — €17.95
+- Holland & Barrett Beauty Superfood Blend 150g — €26.00
+- Linwoods Milled Chia Seed 200g — €5.49
+- Weleda Pomegranate & Maca Peptides Firming Eye Cream 12ml — €24.33
+- Optimum Nutrition Gold Standard 100% Whey Protein Chocolate Mint 899g — €53.30
+- Neubria Neu Him Melts-Vits Men's Multivitamins 90 Melts — €7.49
+- Mindful Extracts Organic Chaga Mushroom 60 Vegan Capsules — €28.11
+- Wild Nutrition Food Grown Daily Multi Nutrient 45+for Women 60 Capsules — €36.00
+- HotTea Mama Milk's Up Fenugreek, Fennel & Aniseed Tea 14 Tea Bags — €7.79
+- Nature's Bounty® Hair, Skin and Nails with Biotin 60 Gummies — €20.24
+- Egmont Honey Monofloral Manuka Honey MGO 400+ 500g — €49.99
+- Applied Nutrition ABE Ultimate Pre Workout Energy 375g — €27.00
+- Grass & Co. GLOW Hydrating 250mg CBD Day Cream 50ml — €15.32
+- Holland & Barrett Pycnogenol 30mg 60 Capsules — €25.32
+- It's Pure Organic Herbal Hair Colour Auburn 110g — €16.50
+- Hu Almond Butter + Crispy Quinoa Dark Chocolate Bar 60g — €3.83
+- Neubria Charge Energy Vegan 60 Capsules — €19.49
+- Vita Coco Coconut Oil 750ml — €18.99
+- Pukka Organic Night Time Berry 20 Tea Bags — €6.19
+- Vow Nutrition Creatine Chews Strawberry 100 Chews — €20.00
+- Holland & Barrett Immunity Orange Flavour 30 Gummies — €11.99
+- Faith In Nature Grapefruit & Orange Conditioner 5L — €77.99
+- Dr Organic Thyme Pure Essential Oil 10ml — €14.06
+- Holland & Barrett Luxury Soft Prunes 420g — €8.79
+- Egmont Honey Monofloral Manuka Honey MGO 200+ 350g — €24.99
+- Natures Aid Mini Drops Bed Time 50ml — €8.69
+- Marine Collagen Cherry & Apple 10 Sachets — €24.00
+- Holland & Barrett Pure Cod Liver Oil 500mg 240 Capsules — €18.99
+- Holland & Barrett Chopped Mix Nuts 200g — €3.39
+- Nature's Aid PRO-Cognitiv 10 Billion — €19.49
+- Evolve Salicylic Rescue Serum 30ml — €25.49
+- Holland & Barrett Vitamin C 1000mg 60 Tablets — €8.79
+- Vitl Female Multivitamin 30 Capsules — €9.74
+- Holland & Barrett Pure Cod Liver Oil 500mg 120 Capsules — €10.79
+- Nature’s Aid Kidz Pro-5 Daily Microbiotic Powder 90g — €14.31
+- Naturtint Permanent Hair Colour 4M (Mahogany Chestnut) — €18.00
+- Faith in Nature Lavender & Geranium Conditioner 5L — €52.25
+- Ecodenta Certified Organic Whitening Toothpaste with Papaya Extract 75ml — €8.89
+- Optimum Nutrition Gold Standard Pre Workout Green Apple 330g — €32.00
+- Holland & Barrett Soy Protein Mince 400g — €4.69
+- Nature's Aid NutriGUT-C Bowel Support 15 Billion — €14.61
+- Vitabiotics Perfectil Hair Crush 60 Gummies — €25.74
+- Holland & Barrett Herbal Digestive and Enzyme Formula 90 Capsules — €11.99
+- Vitabiotics Menopace Night 30 Tablets — €13.25
+- Holland & Barrett Organic Soft Apricots 420g — €10.49
+- TriActive Overnight Protein Cocoa 510g — €25.00
+- Holland & Barrett Teen Him Multivitamin 60 Gummies — €13.49
+- Holland & Barrett Folic Acid & Vitamin D3 180 Tablets — €16.29
+- Xtend Original BCAA 30 Servings - Watermelon Explosion 423g — €28.00
+- BetterYou Magnesium Still Water Hydrate (Citrus & Botanicals) 4x 250ml — €7.80
+- Dr Organic Pro Collagen Plus Bakuchiol Moisturiser — €25.99
+- Vitaskin Vitamin C Collagen Boosting Night Cream — €19.99
+- Holland & Barrett Joints, Bones & Muscles Superfood Blend 150g — €26.00
+- Holland & Barrett Vitamin C & Zinc 60 Tablets — €4.75
+- Holland & Barrett Cold Pressed Evening Primrose Oil 500mg 90 Capsules — €15.99
+- Dr Organic Pro Collagen Plus Dragons Blood 50ml — €25.99
+- Holland & Barrett Slow Release Vitamin B5 + Panthothenic Acid 500mg 120 Tablets — €10.74
+- Holland & Barrett Garcinia Cambogia & Green Coffee Bean 100 Capsules — €15.49
+- Dr Organic Manuka Honey Foot & Heel Cream 125ml — €10.49
+- Faith In Nature Grapefruit & Orange Body Wash 1L — €15.50
+- Dr Organic Aloe Vera Mouthwash 500ml — €10.19
+- Naturtint Permanent Hair Colour Gel 6WG (Radiant Golden Dark Blonde) — €17.50
+- Probio7 Original 40 Capsules — €14.61
+- Vitaskin Vitamin A Intense Cell Renewal Oil — €24.00
+- Holland & Barrett Flame Raisins 1kg — €10.49
+- Holland & Barrett Astragalus 470mg 90 Capsules — €24.69
+- Applied Nutrition ABE Ultimate Pre Workout Cherry Cola 375g — €27.00
+- Dr Organic Aloe Vera Concentrated Cream 50ml — €15.99
+- Ecodenta Extra Whitening Mouthwash with Black Charcoal 500ml — €9.90
+- Ecodenta Strawberry Toothpaste for Children with Carrot Extract 75ml — €5.99
+- Evolve African Orange Aromatic Wash 250ml — €15.75
+- REN Brightening Dark Circle Eye Cream 15ml — €47.77
+- Naturtint Permanent Hair Colour 8N (Wheat Germ Blonde) — €18.00
+- Applied Nutrition BCAA Amino Hydrate Fruit Burst 450g — €24.00
+- Holland & BarrettHigh Strength Garlic 6000mg 240 Capsules — €40.29
+- Dr Organic Tea Tree Toothpaste 100ml — €7.79
+- Holland & Barrett Organic Walnuts 200g — €8.99
+- Vitl Male Multivitamin 30 Capsules — €9.74
+- Bioglan SmartMinds 60 Gummies — €17.99
+- USN Shaker Bottle 700ml — €5.20
+- Applied Nutrition Critical Greens Powder Apple Burst 150g — €12.00
+- Holland & Barrett Ginger Root Extract 240 Capsules — €27.29
+- Holland & Barrett Macadamia Nuts 100g — €5.99
+- Dr Organic Charcoal Toothpaste 100ml — €7.79
+- Dr Organic Aloe Vera Body Lotion 200ml — €10.99
+- Holland & Barrett Gentle Iron 20mg 30 Capsules — €5.49
+- Holland & Barrett Vegan Silica Complex 90 Tablets — €14.29
+- Nature's Bounty Beautiful Skin Raspberry Flavour 60 Gummies — €16.49
+- Vitabiotics Jointace 30 Capsules — €20.78
+- Westlab Epsom Bath Salt 1kg — €3.90
+- Active Iron for Men 30 Capsules + 30 Tablets — €19.49
+- PhD Stainless Steel Shaker 750ml — €19.00
+- Holland & Barrett Pomegranate 250mg 60 Capsules — €13.19
+- Naturtint Permanent Hair Colour 9N (Honey Blonde) — €18.00
+- Dr Organic Pro Collagen Plus Black Pearl 50ml — €25.99
+- USN Nine Aminos Grape Fizzy Pop 330g — €25.00
+- Dose & Co Radiant Complexion 30 Capsules — €39.99
+- Evolve Superfood Shine Conditioner 250ml — €14.62
+- Holland & Barrett Vitamin D 1000 I.U. 25ug 90 Tablets — €6.99
+- Vitaskin Vitamin C Lifting Eye Cream — €19.99
+- Holland & Barrett Zinc 25mg 240 Tablets — €15.99
+- Weleda Refining Toner 150ml — €12.71
+- Holland & Barrett Vitamin C 2000mg 567g Powder — €20.50
+- Faith in Nature Fragrance Free Conditioner 400ml — €10.69
+- Neubria Neu Her Melti-Vits Womens Mutivitamins 90 Melts — €7.49
+- Probio7 Restore 30 Capsules — €32.24
+- Vitl Immune Support 15 Capsules — €5.84
+- Neubria Neubiotic Bifido & Fibre 30 Sachets — €20.99
+- Dr Organic Aloe Vera Body Wash 250ml — €10.19
+- Pro-ven Biotics Acidophilus & Bifidus With Digestive Enzymes 30 Capsules — €19.49
+- Dr Organic Tea Tree Pure Oil 10ml — €10.99
+- Pro-Ven For Pregnancy Plus 30 Capsules — €25.11
+- Holland & Barrett Vitamin D3 400 I.U. 10ug 240 Tablets — €7.09
+- Faith in Nature Lavender & Geranium Hand & Body Lotion 400ml — €10.40
+- Miaroma Peppermint Pure Essential Oil 30ml — €11.39
+- Holland & Barrett Biotin 1000ug 30 Tablets — €8.79
+- Holland & Barrett Red Clover Extract 100 Capsules — €22.09
+- Health & Her Contraceptive Multivitamin Support 60 Tablets — €16.79
+- Solgar Gentle Iron (Iron Bisglycinate) 20mg Vegetable 180 Capsules — €25.95
+- Chocolate Peanut Butter Protein Bar 15 x 55g — €41.85
+- Tisserand The Little Box Of Motivation 3x10ml — €23.49
+- Vita Coco Coconut Oil 250ml — €8.99
+- It's Pure Organic Henna Hair Colour Golden Blonde 110g — €16.50
+- Miaderma Athlete's Foot Spray — €14.49
+- Optima Healthcare Activ Juice Orange & Pineapple 1l — €15.74
+- Nature's Bounty® Adult Multivitamin 60 Gummies — €17.24
+- BetterYou Magnesium Body Lotion 150ml — €12.79
+- Holland & Barrett Acai Daily Complex 90 Capsules — €21.49
+- Applied Nutrition ABE Ultimate Pre Workout Fruit Punch 375g — €27.00
+- Faith In Nature Wild Rose Body Wash 400ml — €8.25
+- Naturtint Colour Fixing Shampoo 400ml — €13.00
+- Wild Nutrition Food Grown Perimenopause Complex 60 Capsules — €33.75
+- Proceive® Every Mum 60 Capsules — €19.49
+- Neubria Neu Kid - Multivitamin + Omega-3 30 Soft Chewables — €10.86
+- Applied Nutrition Amino Fuel EAA Powder Fruit Burst 390g — €24.00
+- Miaroma Oregano Pure Essential Oil 10ml — €8.71
+- Salt of the Earth - Ocean & Coconut Natural Deodorant Refillable Spray 100ml — €6.35
+- Dr Organic Aloe Vera Deodorant 50ml — €8.99
+- REN Bio Retinoid™ Youth Concentrate Oil — €50.61
+- PhD Diet Plant Protein Powder Strawberries & Cream 500g — €18.00
+- Beauty Dropz Hyaluronic Edible Skincare 60ml — €10.04
+- Vitaskin Vitamin A Rejuvenating Night Serum — €22.99
+- Haliborange Disney Toy Story Omega 3 60 Orange Flavour Softies — €11.24
+- Holland & Barrett Sultanas 500g — €6.49
+- Holland & Barrett New Mother Support 30 Tablets — €13.99
+- fourfive Focus & Energy Lion's Mane 4000mg 60 Gummies — €32.99
+- Grass & Co. EASE CBD Muscle Balm 300mg with Tea Tree, Eucalyptus & Arnica 60ml — €25.74
+- Tisserand Real Calm Massage & Body Oil 100ml — €17.99
+- Evolve Cotton Fresh Deodorant Cream 30ml — €10.72
+- Dr Organic Tea Tree Deodorant 50ml — €8.49
+- Wild Nutrition Daily Multi Nutrient for Men 45+ 60 Capsules — €36.00
+- Naturtint Permanent Hair Colour Gel 6GA (Deep Almond Brown) — €17.49
+- Salt of the Earth Peony Blossom Natural Deodorant Spray Refill 500ml — €24.44
+- Naturtint Permanent Hair Colour 6A (Dark Ash Blonde) — €18.00
+- Dr Organic Aloe Vera Body Butter 200ml — €15.49
+- Burt's Bees Baby Shampoo & Wash Original 235ml — €11.99
+- Dr Organic Manuka Honey Gentle Face Wash 150ml — €9.99
+- Holland & Barrett Organic Cranberries 210g — €8.49
+- Optimum Nutrition Chocolate Brownie Crunch Protein Bar 65g — €3.50
+- Salt of the Earth - Amber & Sandalwood Natural Deodorant Refillable Spray 100ml — €6.35
+- Dr Organic Moroccan Argan Oil Conditioner 265ml — €9.39
+- Ecodenta Certified Organic Juicy Fruit Toothpaste for Children 75ml — €8.89
+- Holland & Barrett Hazelnuts 200g — €6.99
+- Vitaskin Vitamin C Gentle Daily Exfoliator — €20.99
+- Holland & Barrett Grapeseed Extract 50mg 90 Capsules — €16.49
+- The Herbtender CALM & COLLECTED with Ashwagandha and Lion's Mane 60 Vegan Capsules — €25.49
+- Miaroma A Relaxing Night’s Sleep Pillow Mist 100ml — €8.71
+- Holland & Barrett UC-II Collagen Orange Flavour Powder 14 Sachets — €16.25
+- Miaroma Tea Tree Pure Essential Oil 30ml — €12.39
+- Tisserand Restore Balance Bath Oil 200ml — €23.50
+- Pro-ven Biotics Adult Acidophilus & Bifidus 50 Billion 14 Capsules — €17.61
+- Xtend Original BCAA 30 Servings - Strawberry Kiwi Splash 441g — €28.00
+- Restore Electrolytes Unflavoured 7 X 3g Sachet — €9.00
+- Faith In Nature Wild Rose Shampoo 400ml — €10.99
+- Dr Organic Moroccan Argan Oil Deodorant 50ml — €8.49
+- Tisserand Sleep Better Pillow Mist 100ml — €16.99
+- Ecodenta Certified Organic Multifunctional Toothpaste with Hemp Oil 75ml — €8.89
+- Miaroma Eucalyptus Pure Essential Oil 30ml — €12.06
+- Holland & Barrett Quercetin Plus Vitamin C 60 Tablets — €26.49
+- BetterYou Magnesium Gel — €13.59
+- Naturtint Colour Fixing Protective Conditioner 150ml — €13.00
+- Holland & Barrett Organic Figs 420g — €10.99
+- Holland & Barrett ABC to Z Vegan Multivitamins 120 Tablets — €16.89
+- Holland & Barrett Black Garlic 6000mg 30 Capsules — €17.59
+- Dr Organic Guava Body Wash — €8.49
+- Faith in Nature Lavender and Geranium Body Wash 400ml — €8.79
+- Holland & Barrett ABC to Z Multivitamins 30 Tablets — €4.49
+- Dr Organic Eucalyptus Pure Essential Oil 10ml — €6.36
+- Holland & Barrett Roasted Pistachios 200g — €6.39
+- Salt of the Earth Ocean & Coconut Deodorant Spray Refill 500ml — €24.44
+- Nature Spell Hyaluronic Acid Oil For Hair & Body 150ml — €9.49
+- Miaroma Peppermint Pure Essential Oil 10ml — €5.42
+- Dose & Co Dairy-Free Collagen Creamer Caramel 340g — €26.24
+- Holland & Barrett Conception & Pregnancy Support 30 Tablets — €17.99
+- Dr Organic Manuka Honey Hand Cream 125ml — €10.19
+- Holland & Barrett Pure Cod Liver Oil with Evening Primrose Oil 500mg 60 Capsules — €12.49
+- Westlab Mindful Bathing Salts 1kg — €4.50
+- Naturtint Reflex Semi-Permanent Henna Cream Hair Colour 3.0 (Dark Chestnut Brown) — €15.00
+- Hydro Plus Focus & Energy 7 Sachets — €8.70
+- Miaroma Geranium Pure Essential Oil 10ml — €10.05
+- Faith in Nature Shea & Argan Shampoo 400ml — €10.99
+- Berocca Energy Effervescent Tablets Mixed Berries 15 Tablets — €6.72
+- PhD Nutrition Smart  Protein Powder  Salted Caramel 510g — €18.00
+- Solgar Advanced Multi-Enzymes Complex 90 Vegi Capsules — €38.40
+- Dr Organic Hemp 2 in 1 Shampoo 265ml — €10.99
+- Westlab Recover Bathing Salts 1kg — €4.55
+- Holland & Barrett Reishi Mushroom Powder 100g — €31.99
+- Faith in Nature - Shampoo Bar Lavender & Geranium 85g — €8.99
+- Starpowa Beauty  Tremella Mushroom Extract Mixed Berry Flavour 60 Gummies — €51.99
+- Holland & Barrett High Strength Royal Jelly 500mg 90 Capsules — €11.24
+- Faith in Nature Grapefruit & Orange Hand & Body Lotion 400ml — €10.40
+- Neubria Neubiotic Baby & Kid 30 Sachets — €18.74
+- Miaroma Sweet Almond Base Oil 100ml — €5.35
+- Dr Organic Moroccan Argan Oil Shampoo 265ml — €8.99
+- Holland & Barrett Cashew Nuts 200g — €6.49
+- Tisserand Energy Boost MoodFix Mist 100ml — €16.99
+- Weleda Pomegranate Body Butter 150ml — €21.37
+- Naturtint Reflex Semi-Permanent Henna Cream Hair Colour 5.0 (Light Chestnut Brown) — €15.00
+- TriActive Protein Smoothie Apple & Blueberry 500g — €31.00
+- Optimum Nutrition Nutty Chocolate Caramel Protein Bar 10x 70g — €31.50
+- Solgar Vitamin C 500mg Vegetable 100 Capsules — €16.50
+- Dr Organic Organic Virgin Coconut Oil Body Wash 250ml — €8.39
+- Sukin Brightening Illuminating Moisturiser 60ml — €17.24
+- Naturtint Permanent Hair Colour 7N (Hazelnut Blonde) — €18.00
+- Holland & Barrett Ultra Greens 90 Capsules — €14.99
+- Meridian Protein Smooth Peanut Butter 700g — €6.84
+- Faith in Nature Rosemary Conditioner 400ml — €10.99
+- Holland & Barrett Vegan Silica Complex 180 Tablets — €25.50
+- Jelly Bears Multivitamins Fruit Bear 60 Chewables — €9.74
+- Evolve Nourishing Hair Elixir 30ml — €15.74
+- Weleda Baby Cream Bath 200ml — €14.25
+- Naturtint Permanent Hair Colour 8G (Sandy Golden Blonde) — €18.00
+- Faith in Nature Aloe Vera Shampoo 400ml — €10.99
+- Weleda Calendula Baby Body Lotion 200ml — €11.66
+- Holland & Barrett Sesame Seeds 200g — €3.89
+- Naturtint Hairspray 175ml — €12.99
+- Holland & Barrett Soft Apricots Preservative Free 420g — €9.39
+- Cellucor C4 Original Pre-Workout Apple 180g — €26.50
+- Holland & Barrett Cod Liver Oil 510mg + Glucosamine 60 Capsules — €17.99
+- Naturtint Permanent Hair Colour 6G (Dark Golden Blonde) — €18.00
+- Naturtint Permanent Hair Colour 7G (Golden Blonde) — €18.00
+- Naturtint Permanent Hair Colour Gel 4WN (Radiant Nature Brown Glamour) — €17.50
+- Weleda Calendula Face Cream 50ml — €10.68
+- Holland & Barrett Alpha Lipoic Acid 100mg 60 Capsules — €14.99
+- Faith in Nature Lavender & Geranium Shampoo 400ml — €10.99
+- Bioglan SmartMinds Magnesium Mood & Mind 60 Gummies — €17.99
+- Balmonds Cooling Cream 100ml — €18.29
+- Burt's Bees Baby Bee Bubble Bath 350ml — €15.49
+- Dr Organic Tea Tree Body Lotion 200ml — €10.99
+- Naturtint Permanent Hair Colour 4G (Golden Chestnut) — €18.00
+- Holland & Barrett Soft Lerida Figs 420g — €9.99
+- Solgar Vitamin D3 (Cholecalciferol) 1000 Iu (25 µg) 180 Tablets — €18.50
+- Holland & Barrett Tribiotic Immunity 60 Capsules — €40.99
+- Weleda Love Aroma Shower 200ml — €8.25
+- Nivea Sun Kids Protect & Care Sun Cream Lotion SPF 50+ 200ml — €11.75
+- Faith In Nature Wild Rose Conditioner 400ml — €10.99
+- Holland & Barrett Organic Soft Prunes 210g — €5.99
+- USN Nine Aminos Pineapple 330g — €25.00
+- Dr Organic Hemp Oil Body Wash 250ml — €8.39
+- Dr Organic Moroccan Argan Oil Facial Oil 30ml — €19.99
+- Westlab Magnesium Flakes 1kg — €6.69
+- Nature Spell Curl Defining Salt Free Leave in Curl Cream 400ml — €9.49
+- Balmonds Omega Rich Cleansing Oil 125ml — €14.07
+- Naturtint Root Retouch Crème - Dark Blonde 45ml — €13.00
+- Dr Organic Skin Brightening Cream with Royal Jelly 125ml — €14.29
+- Holland & Barrett Vitamin C High Strength Slow Release 1000mg 240 Tablets — €28.99
+- Holland & Barrett Pure Cod Liver Oil & Multivitamins 500mg 180 Capsules — €30.49
+- Westlab Sleep Bathing Salts 1kg — €4.87
+- Bluey Bone Support Tropical Flavour 30 Gummies — €11.19
+- Miaroma Patchouli Pure Essential Oil 10ml — €6.69
+- USN Nine Aminos Jelly Bean 330g — €25.00
+- Naturtint Permanent Hair Colour 10N (Light Dawn Blonde) — €18.00
+- Revive Collagen Menopause Max Hydrolysed Marine Collagen 10,000mgs 14 Days Supply — €45.59
+- Grahams Face & Eyelid Eczema Cream 50g — €25.99
+- Neubria Cognifuel Daily Performance Drink Orange & Pineapple Flavour 10 x 8g Sachets — €11.99
+- Holland & Barrett Glucosamine Maximum Strength 60 Tablets — €23.49
+- Natures Aid Super Stars Multivitamins & Minerals 60 Tablets — €10.99
+- Optimum Nutrition Gold Standard Pre Workout Blue Raspberry 330g — €32.00
+- Naturtint Permanent Hair Colour 6.66 (Fireland) — €18.00
+- Naturtint Root Retouch Crème - Light Brown 45ml — €13.00
+- Miaderma Eczema & Psoriasis Shower Gel — €12.99
+- Pukka Organic Three Chamomile 20 Tea Bags — €6.49
+- Faith in Nature Jojoba Shampoo 400ml — €10.99
+- Naturtint Permanent Hair Colour Gel 4W (Radiant Dark Brown) — €17.50
+- Holland & Barrett Cold Pressed Evening Primrose Oil 500mg 30 Capsules — €6.99
+- Health & Him Night Multi-Nutrient Support 60 Capsules — €29.99
+- Holland & Barrett Pure Cod Liver Oil 500mg 60 Capsules — €5.99
+- Marine Collagen Strawberry Lemonade 10 Sachets — €24.00
+- Miaroma Lemon Pure Essential Oil 10ml — €4.69
+- Holland & Barrett Seedless Raisins 500g — €4.89
+- Balmonds Daily Moisturising Cream 100ml — €13.93
+- Tisserand Sleep Better Body and Massage Oil 100ml — €17.99
+- Evolve Superfood Shine Shampoo 250ml — €14.62
+- Dr Organic Rose Otto Creamy Face Wash 150ml — €9.99
+- Vitaboost Turmeric Effervescent 20 Tablets — €12.99
+- Tisserand Total De-Stress Moodfix Mist 100ml — €16.99
+- Tisserand Restore Balance Body & Room Mist 100ml — €16.99
+- Tisserand Muscle Ease Massage & Body Oil 100ml — €17.99
+- Balmonds Body, Hand & Hair Wash 200ml — €19.16
+- TriActive Pre-Workout Raspberry & Lime 225G — €25.00
+- Tisserand Little Box of Sleep 3x 10ml — €22.00
+- Faith in Nature Grapefruit & Orange Conditioner - 500ml Aluminium — €12.99
+- Tisserand Sleep Better Roller Ball 10ml — €12.49
+- Burt's Bees Hibiscus Tinted Lip Balm 4.25g — €8.49
+- Raw Halo Vegan Pure Dark Raw Chocolate 70g — €4.29
+- Naturtint Permanent Hair Colour Gel 5WB (Radiant Copper Brown) — €17.50
+- Naturtint Reflex Semi-Permanent Henna Cream Hair Colour 7.0 (Hazelnut Blonde) — €15.00
+- Holland & Barrett Pure Cod Liver Oil & Multivitamins 500mg 60 Capsules — €10.49
+- Dr Organic Charcoal Face Mask 125ml — €12.30
+- Yogi Tea Bedtime Organic 17 Tea Bags — €4.49
+- Miaroma Orange Pure Essential Oil 10ml — €4.35
+- Dr Organic Tea Tree Conditioner 265ml — €9.39
+- Miaroma Avocado Base Oil 100ml — €7.36
+- Tisserand Total De-Stress Diffuser Oil 9ml — €15.49
+- Grass & Co. CALM CBD Body Balm 300mg with Rosemary, Primrose & Lemon 60ml — €51.49
+- Naturtint Permanent Hair Colour 5C (Light Copper Chestnut) — €18.00
+- Optimum Nutrition Chocolate Brownie Crunch Protein Bar 10x 65g — €31.50
+- Faith in Nature Lavender & Geranium Shampoo - 500ml Aluminium — €12.99
+- The Herbtender DOZE & DREAM with Reishi and Ashwagandha 60 Vegan Capsules — €25.49
+- Natures Aid Medium Chain Triglycerides (MCT) Oil with Caramel Flavour 500ml — €20.25
+- Holland & Barrett Lime Infused Mango 100g — €5.89
+- Dr Organic Lemon Pure Essential Oil 10ml — €6.03
+- Tisserand Total De-Stress Massage & Body Oil 100ml — €17.99
+- Holland & Barrett Organic Raisins 375g — €5.19
+- Nature Spell Calm & Clear Biotic Serum for Dry Scalp with Hyaluronic Acid + Plant Collagen 50ml — €9.49
+- Myprotein Hydrolysed Collagen Peptide Vanilla 1kg — €32.50
+- Solgar Vitamin D3 1000 Iu (25 µg) 250 Softgels — €28.50
+- Holland & Barrett Elderberry Immunity Liquid with Vitamin C & Zinc 150ml — €15.49
+- Solgar Chromium Picolinate 200µg 90 Vegi Capsules — €18.80
+- Tisserand Sleep Better Bath Oil 200ml — €23.50
+- Starpowa Detox Shiitake Mushroom & Ginger Root Extracts Mixed Berry Flavour 60 Gummies — €51.99
+- Solgar Earth Source Food Fermented Koji Iron 30 Capsules — €16.80
+- Tisserand Restore Balance Pulse Point Roller Ball 10ml — €12.49
+- Holland & Barrett Dried Mango Slices 120g — €6.59
+- Naturtint Permanent Hair Colour Cream 5N (Light Chestnut Brown) — €19.00
+- Odysea Oak Tree Honey 250g — €7.20
+- Hydro Plus Everyday Recovery 7 Sachets — €8.70
+- Holland & Barrett Vitamin B12 100ug 60 Tablets — €8.19
+- Holland & Barrett Vitamin B6 + Pyridoxine 50mg 120 Tablets — €3.10
+- Applied Nutrition Coleen Rooney Marine Collagen 10,000mg Strawberry  Flavour 14 x 12.5g Sachets — €28.49
+- Vita Coco Extra Coconut Water 330ml — €1.95
+- RJs Natural Licorice Raspberry 300g — €5.19
+- Holland & Barrett Red Lentil & Tomato Pesto 190g — €3.89
+- Ricola Cranberry Swiss Herbal Sweets Box 45g — €1.89
+- Biomel Complete Gut Pure Vanilla 450g — €30.00
+- Chewy Vites Kids Multivitamin Advance 30 Chewables — €7.20
+- Wibble Raspberry Vegan Jelly Crystals 57g — €1.70
+- Pip & Nut Peanut Butter Stuffed Oat Bar 48g — €2.09
+- Nature Spell Black Seed & Castor Oil For Hair & Skin 150ml — €9.49
+- Hu Hazelnut Butter Dark Chocolate Bar 60g — €3.83
+- Solgar Psyllium Husks Fibre 500mg 200 Vegi Capsules — €21.20
+- Plant Protein Bar Caramel & Pretzel 60g — €2.60
+- Holland & Barrett Red Lentil Fusilli 250g — €3.65
+- Chia Smash Strawberry Fruit Spread 227g — €7.50
+- Ricola Original Swiss Herbal Sugar Free Sweets 45g — €1.89
+- Holland & Barrett Vitamin B3 + Niacin 100mg 120 Tablets — €2.75
+- Holland & Barrett Carrot & Beetroot Chips 16g — €1.95
+- Ricola Raspberry Mint Sugar Free Sweets 45g — €1.89
+- Surreal High Protein Cereal Cinnamon 40g — €1.50
+- Pip & Nut Peanut Butter Stuffed Chocolate Oat Bar 48g — €2.09
+- Holland & Barrett Dried Cherries 90g — €4.79
+- Wibble Forest Fruits Vegan Jelly Crystals 57g — €1.70
+- Weleda Rosemary Revitalising Hair Tonic 100ml — €15.56
+- Vitabiotics Feroglobin Liquid 200ml — €9.74
+- Holland & Barrett Hyaluronic Acid 20mg 30 Capsules — €6.20
+- PerfectTed Matcha Pear Ginger Energy Drink 250ml — €1.73
+- Q+A Hyaluronic Facial Serum - 30 ml — €9.00
+- Holland & Barrett Double Strength Grapeseed Extract 100mg 50 Capsules — €17.24
+- Holland & Barrett Deglet Nour Dates 210g — €2.99
+- Macu-SAVE One a Day Eye Health 30 Capsules — €14.61
+- Deliciously Ella Lemon Poppy Seed Oat Bar 50g — €1.49
+- Vitabiotics Wellwoman 70+ 30 Tablets — €19.49
+- Novomins Fibre 4000mg Inulin Orange Flavoured 60 Gummies — €16.07
+- Pukka Vanilla Chai 20 Teabags — €6.19
+- H&B Value Calcium 400mg + Vitamin D 30 Tablets — €1.46
+- Eat Water Organic Slim Pasta Penne 270g — €3.49
+- Holland & Barrett Dark Chocolate Strawberries 90g — €5.69
+- Dr Organic Skin Clear Deep Cleansing Face Wash 125ml — €8.99
+- Dr Organic Virgin Coconut Oil Shampoo 265ml — €8.99
+- Weleda Deodorant Stick Sensitive 50g — €8.62
+- Holland & Barrett Marcona Almonds 100g — €5.59
+- Holland & Barrett Juice Infused Cranberries 420g — €9.09
+- Holland & Barrett Pine Nuts 100g — €7.09
+- Starpowa Relax Reishi Mushroom Extract Mixed Berry Flavour 60 Gummies — €51.99
+- Dr Organic Peppermint Pure Essential Oil 10ml — €6.36
+- Holland & Barrett Walnut Pieces 200g — €5.59
+- Salt of the Earth - Peony Blossom Natural Deodorant Refillable Spray 100ml — €6.35
+- Balmonds Intensive Hand Cream 50ml — €10.45
+- Evolve Daily Detox Facial Wash 100ml — €15.75
+- Tisserand Energy Boost Diffuser Oil 9ml — €15.49
+- Naturtint Permanent Hair Colour Gel 3NV (Deep Radiant Red) — €17.49
+- Dr. Organic Skin Calm Probiotic Protection Serum 30ml — €18.99
+- Naturtint Permanent Hair Colour Cream 3N (Dark Chestnut Brown) — €19.00
+- Miaroma Grapeseed Base Oil 100ml — €5.69
+- Dr Organic Skin Clear Toner 200ml — €10.49
+- Weleda White Mallow Face Cream 50ml — €11.66
+- Holland & Barrett Magnesium 375mg Powder 200g — €22.09
+- Revive Collagen Menopause Beauty Sleep Hydrolysed Marine Collagen 7,500mgs 14 days Supply — €43.19
+- Holland & Barrett Organic Sultanas 375g — €5.69
+- Dr Organic Hemp Oil Rescue & Restore Conditioner 265ml — €15.49
+- Naturtint Permanent Hair Colour Gel 2WN (Radiant Natural Brown-Black) — €17.50
+- Cellucor C4 Original Pre Workout Reorg Series Pineapple Head 198g — €26.50
+- Dr Organic Vitamin E Lip Balm SPF 15 5.7ml — €5.99
+- Solgar No-Flush Niacin 500mg 50 Vegi Capsules — €31.00
+- Vitaskin Vitamin B Mattifying Hydration Serum — €22.99
+- Dr Organic Rose Otto Body Wash 250ml — €8.39
+- Natures Aid Super Stars Vitamin C 60 Tablets — €7.99
+- Zooki Hydration+ Skin Radiance, Pomegranate Lemon Flavour 7 Sachets — €15.59
+- Dr Organic Rescue & Restore Hair & Scalp Treatment Mousse 150ml — €20.99
+- Weleda Pine Reviving Bath Milk 200ml — €17.06
+- Holland & Barrett High Protein Cheesy Plant Puff Crisps 75g — €4.55
+- Miaroma Bergamot Pure Essential 10ml — €8.03
+- Holland & Barrett Ginger 30 Melts — €12.99
+- Hydro Plus Immune Support  7 Sachets — €8.70
+- Dr Organic Skin Clear Treatment Gel 10ml — €9.79
+- Faith in Nature Lavender & Geranium Conditioner - 500ml Aluminium — €12.99
+- Weleda Calendula Toothpaste 75ml — €5.81
+- Spruce Pineapple & Grapefruit Water Infusions (12 Sachets) — €5.84
+- Faith In Nature Jojoba Conditioner 400ml — €10.99
+- Solgar Folate (As Metafolin) 1000µg 60 Tablets — €29.95
+- Weleda Sensitive Body Lotion 200ml — €12.37
+- Faith in Nature Dragon Fruit Shampoo Bar 85g — €8.99
+- Naturtint Permanent Hair Colour Cream 4N (Natural Chestnut) — €19.00
+- Holland & Barrett Ginger & Cinnamon Trail Mix 210g — €6.49
+- Evolve African Orange Aromatic Lotion 250ml — €17.61
+- Weleda Skin Food Light 30ml — €9.26
+- Holland & Barrett Shatavari Formula 60 Capsules — €11.24
+- Nature Spell Balance & Shine Peptide Serum for Oily Scalp with Ginseng + Witch Hazel 50ml — €9.49
+- Tisserand Restore Balance Massage & Body Oil 100ml — €17.99
+- Faith in Nature Lavender Soap 100g — €4.50
+- Naturtint Permanent Hair Colour 7.46 (Arizona Copper) — €18.00
+- TriActive Super Greens & Ginger Root 300g — €25.00
+- Dr Organic Snail Gel Eye Serum 15ml — €18.49
+- Grenade Oreo White Protein Bar 60g — €4.80
+- Dr Organic Virgin Coconut Oil Conditioner 265ml — €9.39
+- Dr Organic Manuka Honey Conditioner 265ml — €10.99
+- Naturtint Permanent Hair Colour 5M (Light Mahogany Chestnut) — €18.00
+- Holland & Barrett Pure Cod Liver Oil & Garlic 60 Capsules — €15.59
+- Dr Organic Charcoal Face Wash 200ml — €12.69
+- Salt of the Earth - Amber & Sandalwood Natural Deodorant Spray Refill 500ml — €24.44
+- Miaroma A Sense of Calm Pulse Point Roller Ball 10ml — €6.03
+- L-Arginine L-Ornithine L-Lysine 120 Tablets — €22.00
+- Holland & Barrett Mixed Peanuts & Raisins 850g — €11.99
+- Neubria Cognifuel Daily Performance Drink Blueberry & Pomegranate Flavour 10 x 8g Sachets — €11.99
+- Naturtint Permanent Hair Colour 5R (Fire Red) — €18.00
+- Holland & Barrett Magnesium Oil Spray 310mg 100ml — €15.59
+- Miaroma Sweet Almond Base Oil 200ml — €10.04
+- Vitaskin Vitamin B Blemish Control Gel Cleanser — €19.99
+- Faith in Nature Shea & Argan Conditioner - 500ml Aluminium — €12.99
+- Naturtint 'Curly' Curl Definer Shampoo 330ml — €20.99
+- Dr Organic Charcoal Face Scrub 125ml — €10.49
+- Miaroma A Sense of Calm Bath & Body Oil 100ml — €8.71
+- Protein Flapjack Milk Chocolate 75g — €2.60
+- Dr Organic Royal Jelly Day Cream 50ml — €16.09
+- Grenade White Chocolate Cookie Protein Bar 60g — €4.80
+- Naturtint Reflex Semi-Permanent Henna Cream Hair Colour 5.62 (Mahogany) — €15.00
+- Faith In Nature Dragon Fruit Conditioner 400ml — €10.99
+- Holland & Barrett Jewelled Raisin Mix 210g — €3.99
+- Faith in Nature Aloe Vera Conditioner 400ml — €10.99
+- PerfectTed Matcha Juicy Peach Energy Drink 250ml — €1.73
+- Miaroma Clary Sage Pure Essential Oil 10ml — €8.71
+- Holland & Barrett ABC to Z Vegan Multivitamins 60 Tablets — €11.49
+- Vitaskin Vitamin A Resurfacing Mask — €19.99
+- Faith in Nature Lavender & Geranium Conditioner 400ml — €10.99
+- TriActive Post Workout Orange & Mango 300g — €22.00
+- Wild Nutrition Bone + Muscle Support 90 Capsules — €29.99
+- Salt of the Earth Vetiver & Citrus Deodorant Refillable Spray 100ml — €6.35
+- Eat Water Organic Slim Pasta Lasagne 270g — €3.39
+- Applied Nutrition ABE Ultimate Pre Workout Icy Blue Raz 375g — €27.00
+- Miaroma Lemon Eucalyptus Pure Essential Oil 10ml — €5.69
+- Naturtint Hair Food Goji Revitalising Mask 150ml — €9.99
+- Dr Organic Hemp Oil 24hr Rescue Cream 50ml — €14.49
+- TriActive Super Good Bar Pistacio & Cranberry 12 x 50g — €35.10
+- Pukka Lemon, Ginger & a touch of Manuka Honey 20 Tea Bags — €6.19
+- Salt of the Earth - Unscented Deodorant Spray Refill 1 Litre — €26.12
+- Dr Organic Tea Tree Lip Balm SPF 15 5.7ml — €5.99
+- Naturtint 'Curly' Curl Definer Hair Mask 300ml — €29.99
+- Miaroma Ginger Pure Essential Oil 10ml — €8.36
+- Westlab Magnesium Flakes 800g — €3.90
+- Holland & Barrett Whole Almonds 200g — €6.49
+- Miaroma A Relaxing Night’s Sleep Diffuser Oil 10ml — €7.03
+- L-Arginine 1000mg 100 Tablets — €31.00
+- Naturtint Root Retouch Crème - Black Shades 45ml — €13.00
+- Dr Organic Vitamin E Conditioner 250ml — €10.99
+- Dr Organic Moroccan Argan Oil Creamy Face Wash 150ml — €9.99
+- Tisserand Muscle Ease Bath Oil 100ml — €18.00
+- Vitaskin Vitamin B Blemish Control Moisturiser — €19.99
+- Miaroma Eucalyptus Pure Essential Oil 10ml — €5.22
+- Sukin Cream Cleanser 125ml — €7.68
+- Dr Organic Aloe Vera Lip Balm SPF 15 5.7ml — €5.99
+- Dr Organic Hemp Oil Body Lotion 200ml — €10.99
+- Holland & Barrett Turmeric Powder 100g — €8.50
+- Faith in Nature Coconut Body Wash - 500ml Aluminium — €10.39
+- Dr Organic Hemp Oil Hand Cream 100ml — €10.39
+- Naturtint Strengthening Hair Mask 150ml — €11.99
+- TriActive Super Good Bar Almond & Acaiberry 12 x 50g — €35.10
+- Tisserand Energy Boost Massage and Body Oil 100ml — €17.99
+- Naturtint 'Curly' Curl Definer Co-Wash Balm 330ml — €25.99
+- Holland & Barrett Soft Prunes 210g — €4.79
+- TriActive Nutritional Boost with Creatine 225g — €23.00
+- Dr Organic Vitamin C Eye Serum with Guava 15ml — €12.99
+- Holland & Barrett Katsu Cashews 210g — €5.99
+- Miaroma A Daily Boost of Energy Diffuser Oil 10ml — €7.03
+- Nature Spell Curl Enhancing Salt Free Shampoo 300ml — €9.49
+- Miaroma Grapefruit Pure Essential Oil 10ml — €4.69
+- Naturtint Styling Foam 125ml — €12.99
+- Dr Organic Rose Otto Hand Cream 125ml — €10.69
+- Weleda Refreshing Hand and Nail Cream 50ml — €13.61
+- Dr Organic Aloe Vera Cherry Lip Balm SPF 15 5.7ml — €5.99
+- Sukin Natural Balance Leave in Conditioner 250ml — €7.86
+- Choline & Inositol 100 Tablets — €13.00
+- Dr Organic Aloe Vera Conditioner 265ml — €10.99
+- Dr Organic Virgin Coconut Oil Lip Balm SPF 15 5.7ml — €5.99
+- Tisserand Restore Balance Bath & Shower Wash 400ml — €20.99
+- H&B Ultra Woman 30 Tablets — €5.25
+- Salt of the Earth - Unscented Deodorant Spray Refill 500ml — €17.41
+- Naturtint Permanent Hair Colour Cream 5.7 (Light Chocolate Chestnut) — €19.00
+- TriActive Super Good Bar Cashew & Apricot 50g — €3.25
+- Nature Spell Curl Enhancing Salt Free Conditioner 300ml — €9.49
+- Vita Coco Original Coconut Water Multipack 12x330ml — €17.99
+- Holland & Barrett Pesto Cashews & Almonds 210g — €5.89
+- Tisserand Energy Boost Pulse Point Roller Ball 10ml — €12.49
+- Holland & Barrett Natural Nut Mix 200g — €6.49
+- Emily Sea Salt Seaweed Crisps Sharing Bag 50g — €2.85
+- Miaroma Aromatherapy Mixing Bottle 30ml — €3.01
+- Taurine 500mg 50 Tablets — €9.00
+- Miaroma A Daily Boost of Energy Pulse Point Roller Ball — €6.03
+- Holland & Barrett Elderberry Immunity Berry Flavour 30 Gummies — €15.99
+- Faith in Nature Grapefruit & Orange Shampoo - 500ml Aluminium — €12.99
+- Dr Organic Rose Otto Conditioner 265ml — €9.39
+- TriActive Super Good Bar Almond & Acai Berry 50g — €3.25
+- Holland & Barrett Glucomannan Complex 90 Capsules — €20.00
+- Holland & Barrett Zinc 15mg 60 Tablets — €5.19
+- PerfectTed Matcha Pineapple Yuzu Energy Drink 250ml — €1.73
+- Miaroma Tea Tree Pure Essential Oil 20ml — €9.71
+- Sukin Super Greens Facial Scrub 125ml — €9.74
+- Holland & Barrett High Strength Aloe Vera 10,000mg 30 Tablets — €13.69
+- Pump Zero Pre Workout Blood Orange 375g — €26.00
+- Miaroma Eucalyptus Pure Essential Oil 20ml — €9.04
+- Plant Protein Bar Caramel & Pretzel 12 x 60g — €27.00
+- Plant Protein Bar Dark Chocolate Seasalt 12 x 60g — €27.00
+- Myprotein Impact Branched Chain Amino Acids 150g — €10.50
+- Sukin Sensitive Cleansing Gel 125ml — €7.94
+- Holland & Barrett Sea Moss 30 Capsules — €19.99
+- Q+A Peptide SPF50 Anti-Ageing Daily Facial Sunscreen 50ml — €15.60
+- Dr Organic Moroccan Argan Oil Lip Balm SPF 15 5.7ml — €5.99
+- Sukin Natural Balance Scalp Scrub 200ml — €8.61
+- Myvegan Plant Protein Superblend Caramel 560g — €16.25
+- Cultures Complex 30 Capsules — €19.50
+- Sukin Brightening Illuminating Eye Gel 15ml — €15.36
+- USN Muscle Fuel Anabolic Strawberry 2kg — €49.99
+- Optimum Nutrition Micronised Creatine Monohydrate 634g — €52.00
+- Myprotein Clear Whey Protein Vimto® 261g — €21.00
+- Huel Black Edition 100% Nutritionally Complete Meal Chocolate 500ml — €5.00
+- New Nordic Sugar Cut Berberine 60 Gummies — €31.99
+- Huel 100% Nutritionally Complete Meal Banana 500ml — €4.50
+- Huel 100% Nutritionally Complete Meal Strawberries & Cream 500ml — €4.50
+- Barleycup Original Coffee Alternative Cereal Drink Powder 200g — €9.75
+- Pip & Nut Smooth Almond Butter 1kg — €23.49
+- SiS Hydro Electrolyte Effervescent Lemon 20 Tablets — €9.50
+- Huel 100% Nutritionally Complete Meal Salted Caramel 500ml — €4.50
+- Spacegoods Mushroom Moon Chews Strawberry 60 Gummies — €28.49
+- New Nordic Magic Magnesium Taurate 875mg 60 Tablets — €18.74
+- Holland & Barrett Gut Health Superfood Blend 150g — €26.00
+- Barleycup Organic Coffee Alternative Cereal Drink 100g — €6.49
+- Holland & Barrett Energy Superfood Blend 150g — €26.00
+- Sula Pear Drops Sugar Free Sweets 42g — €2.99
+- Holland & Barrett Crystallised Ginger 210g — €5.19
+- Barleycup Magnesium Coffee Alternative Cereal Drink 100g — €8.49
+- Holland & Barrett Night Ritual Multifloral 100+ MGO Manuka Honey 250g — €51.99
+- Spacegoods Chaga Mushroom Star Chews Blueberry 60 Gummies — €28.49
+- Sula Mint Humbugs Sugar Free Sweets 42g — €2.20
+- Barleycup Calcium & Vitamins Coffee Alternative Cereal Drink 100g — €8.25
+- No.1 Living Water Kefir Strawberry with Rhubarb 330ml — €3.11
+- Freee Gluten Free Baking Powder 130g — €2.39
+- Solgar Folate (As Metafolin®) 400µg 50 Tablets — €14.50
+- Health & Her Menopause Multi Nutrient Supplement 60 Capsules — €22.39
+- Holland & Barrett Hair Vitamins 60 Tablets — €19.49
+- Holland & Barrett Biotin 120 Tablets 300ug — €9.39
+- Holland & Barrett Skin, Hair & Nails Formula 90 Tablets — €17.84
+- Holland & Barrett Vitamin E 400iu 30 Capsules — €4.75
+- Holland & Barrett Vitamin E 400iu 90 Capsules — €10.70
+- Holland & Barrett Vitamin E 400iu 30 Capsules — €10.70
+- Holland & Barrett Vitamin E 400iu 90 Capsules — €23.99
+- Holland & Barrett Vitamin E 400iu 120 Capsules — €27.99
+- Trek Smooth Lemon Protein Flapjacks 16x 50g — €15.50
+- Odysea Spring Blossom Honey 250g — €7.20
+- Holland & Barrett Vitamin D Spray 1000 I.U 25ug Peppermint Flavour 15ml — €9.09
+- Holland & Barrett  Glucosamine Sulphate 1000mg 120 Tablets — €25.99
+- Holland & Barrett Astragalus 470mg 90 Capsules — €24.49
+- Holland & Barrett Green Tea Extract 315mg 180 Tablets — €21.49
+- Holland & Barrett Chromium Picolinate 200ug 100 Tablets — €10.49
+- Holland & Barrett Garcinia Cambogia & Green Coffee Bean 60 Capsules — €22.49
+- Holland & Barrett Chromium Glucose Support Chewable 30 Tablets — €32.49
+- Holland & Barrett  Apple Cider Vinegar 500mg 120 Capsules — €28.49
+- Holland & Barrett Hyaluronic Acid High Strength 120mg + Vitamin C 30 Tablets — €37.69
+- Holland & Barrett  Skin Glow from Within 30 Capsules — €29.74
+- Trek Cocoa Oat Protein Flapjacks 16x 50g — €24.10
+- Unrooted Good Energy Punchy Turmeric & Ginger Shot Dosing Bottle 8x Shots 500ml — €8.76
+- Deliciously Ella Roasted Peanut Breakfast Bakes 3x 50g — €4.29
+- Deliciously Ella Apple & Almond Breakfast Bakes 3x 50g — €4.29
+- Holland & Barrett Live Friendly Bacteria with Acidophilus 3 Billion 60 Capsules — €6.50
+- Ricola Elderflower Swiss Herbal Sweets Box 45g — €1.89
+- Dai Wang Korean Ginseng Tea 3g — €0.63
+- Holland & Barrett Zero Carb Giant Cous Cous 270g — €2.33
+- Holland & Barrett High Strength Effervescent Vit C 1000mg Orange Flavour 20 Tablets — €1.57
+- Hunter & Gather Extra Virgin Avocado Oil 250ml — €7.52
+- Eat Real Hummus Chips Sea Salt 45g — €1.70
+- Jade & Joy Salted Caramel Vegan Collagen Protein Bar 50g — €3.25
+- Buckwud 100% Pure Organic Maple Syrup 250g — €5.99
+- Holland & Barrett Live Friendly Bacteria Strawberry Flavour 60 Chewable Tablets — €5.20
+- Holland & Barrett Oil of Peppermint 200mg 60 Capsules — €5.50
+- Eat Real Lentil Chips Chilli & Lemon 95g — €2.89
+- Holland & Barrett Vegan Calcium Magnesium Vitamin D & Zinc 120 Tablets — €6.75
+- The Honest Bean Co Roasted Fava Bean Snack Lightly Salted 40g — €1.29
+- Holland & Barrett Kids Multivitamin Strawberry 30 Gummies — €4.07
+- Faith in Nature Lavender & Geranium Hand Wash 400ml — €6.50
+- Naturya Organic Superberries Breakfast Boost 150g — €6.71
+- Holland & Barrett Black Cherry Extract 120 Capsules — €8.24
+- Holland & Barrett Dried Cranberries 420g — €10.49
+- Oliva Olive Oil Soap with Tea Tree 100g — €2.89
+- Burt's Bees 100% Natural Lip Balm Beeswax 4.25g — €6.10
+- Natures Aid 100% Pure MCT Oil 500ml — €23.99
+- Faith in Nature Grapefruit & Orange Body Wash 400ml — €8.79
+- Restore Electrolytes Multipack 30 Sachets — €31.50
+- Salt Stick Fastchews Tart Orange 10 Chewables Tablets — €4.25
+- Holland & Barrett Lightly Salted Pistachios 210g — €6.29
+- Optimum Nutrition Electrolyte Powder Forest Berries 264g — €8.00
+- Linwoods Multiboost Organic Milled Hemp Seed, Flaxseed & Chia Seeds 200g — €5.49
+- Waterdrop Flair Raspberry Microdrink 12x Hydration Cubes — €6.30
+- Hydration+ Powder Strawberry Raspberry  240g — €18.00
+- Solgar Vitamin B12 1000 µg Sublingual Chewable 250 Nuggets — €39.95
+- SiS GO Isotonic Energy Gel Blackcurrant  6 x 60ml — €7.00
+- The Beginnings Almond Cookies 80g — €4.49
+- Waterdrop Sky Passion Fruit Microdrink 12x Hydration Cubes — €6.30
+- Odysea Aubergine Meze Dip 220g — €3.00
+- Faith in Nature Coconut Conditioner 400ml — €10.99
+- Hu Vanilla Crunch Dark Chocolate Bar 60g — €3.83
+- Dr. PawPaw Original Balm — €9.39
+- The Beginnings Coconut Ginger Cookies 80g — €4.49
+- Pulsin Raspberry & Choc Chip Keto Bar 50g — €2.90
+- Meridian Natural Hazelnut Butter Whole Nut Spread 170g — €5.67
+- Linwoods Milled Organic Flaxseed 675g — €9.99
+- Protein Bar Milk Chocolate Orange 60g — €2.60
+- Naturya Gut Feel Flaxseed Blend Apple & Cinnamon 240g — €5.19
+- Dr Organic Aloe Vera Gel with Tea Tree 200ml — €10.99
+- Dr Organic Aloe Vera Gel with Cucumber 200ml — €10.99
+- Optimum Nutrition Chocolate Sweet Coconut Protein Bar 59g — €3.50
+- Faith in Nature Shea & Argan Hair Mask 300ml — €10.25
+- Haliborange Disney Frozen Multivitamin 60 Strawberry Flavour Softies — €11.24
+- Manuka Doctor Manuka Honey 740 MGO 500g — €155.00
+- Holland & Barrett Magnesium Bisglycinate 375mg 30 Capsules — €8.99
+- Weleda Make-Up Removal Cleansing Oil 150ml — €13.83
+- Faith in Nature Grapefruit & Orange Conditioner 400ml — €10.69
+- Floradix Iron & Vitamin 84 Tablets — €21.49
+- Weleda Blue Gentian & Edelweiss Contouring Night Cream 40ml — €26.99
+- Weleda Skin Food Nourishing Day Cream 40ml — €15.56
+- H&B Expert Triple Action Biotic Gut Formula 60 Capsules — €20.47
+- Creatine Monohydrate Powder 210g — €13.00
+- Salt of the Earth Plastic Free Deodorant Crystal 75g — €4.69
+- PhD Diet Whey Protein Powder Strawberry Delight 600g — €18.00
+- Weleda Pomegranate & Maca Peptides Firming Night Cream 40ml — €25.46
+- SIS Hydro Electrolyte Mix Mixed Berry 6 x Sachet 4.1g — €6.00
+- Weleda Citrus Fresh Deo Spray 100ml — €12.18
+- Holland & Barrett Beetroot Extract 90 Tablets — €25.35
+- Meridian Organic Almond Butter 170g — €5.68
+- Vitabiotics Wellkid Peppa Pig Omega 3 Orange Flavour 30 Jellies — €12.08
+- Yogi Tea Organic Ginger Orange Tea with Vanilla 17 Tea Bags — €3.89
+- Faith In Nature Grapefruit & Orange Hand Wash 400ml — €6.50
+- Solgar 7 90 Vegi Capsules — €127.50
+- Weleda Pomegranate & Maca Peptides Firming Day Cream 40ml — €24.33
+- Creapure Creatine Powder 400g — €34.50
+- Holland & Barrett Black Garlic 6000mg 60 Capsules — €14.29
+- Dr Organic Manuka Honey Deodorant 50ml — €8.99
+- Fushi BioVedic Radiance Face Oil 30ml — €23.95
+- Pukka Chamomile, Vanilla & Manuka Honey 20 Tea Bags — €6.19
+- Weleda Deep Cleansing Gel 150ml — €12.71
+- Naturtint Permanent Hair Colour 1N (Ebony Black) — €18.00
+- Jack N' Jill Kids Toothbrush – Bunny — €5.00
+- Dr Organic Tea Tree Body Wash 250ml — €8.39
+- Weleda Blue Gentian & Edelweiss Contouring Day Cream 40ml — €28.08
+- Faith in Nature Coconut Hand Wash 400ml — €6.50
+- Boundless Chipotle & Lime Activated Chips 80g — €2.99
+- Faith in Nature Dragon Fruit Body Wash 400ml — €8.25
+- Pukka Organic Elderberry & Echinacea 20 Tea Bags — €6.19
+- Holland & Barrett Teen Eye Care 30 Gummies — €3.90
+- WILD Coconut & Vanilla Natural Deodorant Refill 40g — €7.80
+- Zooki Hydration+ Exercise & Recover, Cherry Flavour 7 Sachets — €15.59
+- Natures Aid Lutein Eye Complex 90 Tablets — €31.79
+- Dr Organic Coffee Anti-Dandruff Conditioner 200ml — €10.99
+- Holland & Barrett Pregnancy Complete 30 Tablets + 30 Capsules — €3.49
+- Vow Nutrition Creatine Chews Apple, Mango & Lime 100 Chews — €20.00
+- Dr Organic Vitamin E Shampoo 265ml — €9.49
+- Naturtint Root Retouch Crème - Dark Brown 45ml — €13.00
+- Dr Organic Rose Otto Facial Serum 30ml — €18.19
+- Manuka Doctor MGO 1300 Manuka Honey 250g — €179.00
+- Dr. PawPaw Overnight Lip Mask 25ml — €12.00
+- Tisserand Real Calm MoodFix Mist 100ml — €16.99
+- Dr Organic Manuka Honey Rescue Cream 50ml — €15.99
+- Hydration+ Powder Lemon & Lime 240g — €18.00
+- ManiLife Deep Roast Smooth Peanut Butter 275g — €4.38
+- Starpowa Postmenopause Support 60 Gummies — €46.99
+- Wild Nutrition Food Grown Fertility Support for Men 60 Capsules — €38.25
+- Faith In Nature Dragon Fruit Hand Wash 400ml — €6.50
+- Hunter & Gather MCT Oil 100% Organic Coconut 500ml — €17.99
+- Jack N' Jill Natural Certified Toothpaste Blackcurrant 50g — €7.00
+- Holland & Barrett Brazil Nuts Pieces 200g — €6.49
+- Faith in Nature Coconut & Shea Hair Mask 300ml — €10.25
+- Holland & Barrett Vegan Natural Vitamin E 400IU 90 Capsules — €25.49
+- Weleda Refreshing Body Lotion 200ml — €12.75
+- Faith in Nature Shea & Argan Shampoo - 500ml Aluminium — €12.99
+- Fearne & Rosie Reduced Sugar Raspberry Jam 310g — €3.22
+- Protein Bar Belgian Brownie 60g — €2.60
+- TriActive Pre-Workout Electrolyte Effervescent Ginger & Lemongrass 20 Tablets — €10.00
+- Musselex Green Lipped Mussel Extract 90 Tablets — €14.61
+- Holland & Barrett Lightly Salted Almonds 210g — €6.19
+- Holland & Barrett Teen Her Multivitamin 60 Gummies — €13.49
+- Nivea Sun Protect & Moisture Sun Cream Lotion SPF 30 200ml — €9.60
+- Faith in Nature Coconut Shampoo 5 Litres — €52.25
+- Fearne & Rosie Reduced Sugar Strawberry Jam 310g — €3.15
+- Pulsin Supershake Energy Cacao & Maca 300g — €15.00
+- Revive Zest Active 30 Sachets — €34.95
+- Faith in Nature Aloe Vera Body Wash 5L — €42.20
+- Egmont Honey Manuka Honey MGO 550+ 250g — €32.49
+- Badger Unscented SPF30 Clear Zinc Sunscreen 82g — €28.59
+- Solgar Selenium (Yeast-Free) 200µg 50 Tablets — €16.50
+- Hydration+ Powder Tropical Vibes 240g — €18.00
+- PROCEIVE® Pregnancy Trimester 3 60 Capsules — €18.74
+- Mindful Extracts Organic Mushroom Blend 60 Vegan Capsules — €30.36
+- Wild Nutrition Food Grown Pregnancy & New Mother Multi for Women 90 Capsules — €38.25
+- Revive Joint Complex 30 Sachets — €52.99
+- Minor Figures Organic Barista Oat M*lk 6 x 1L — €11.25
+- PerfectTed Vanilla Bean Matcha Tea Powder 75g — €17.49
+- Optimum Nutrition Amino Energy Fruit Fusion 270g — €27.00
+- It's Pure Organic Herbal Hair Colour Chestnut 110g — €16.50
+- Solgar Calcium Citrate with Vitamin D3 60 Tablets — €10.80
+- Solgar Triple Strength Omega-3 100 Softgel Capsules — €73.95
+- Wild Nutrition Daily Multi Nutrient for Men 60 Capsules — €36.00
+- BetterYou Magnesium Max Original Magnesium Triple Blend Powder Drink Mix 120g — €15.19
+- Optimum Nutrition Amino Energy Lemon & Lime 270g — €27.00
+- BetterYou Magnesium Flakes 1000g — €13.99
+- Garden of Life Microbiome Once Daily Mens 30 Capsules — €26.49
+- fourfive Multi Mushroom Ultimate Blend 10,000mg 60 Gummies — €37.49
+- Dr Organic Tea Tree Face Wash 200ml — €12.69
+- Fushi Really Good Hair Oil 100ml — €28.95
+- Natures Aid 100% MCT Premium Quality 100% Coconut Oil Sachets 15 x 15ml — €19.50
+- Wild Nutrition Pregnancy & New Mother Omega 3 for Women 60 Capsules — €27.00
+- Fushi Really Good Stretch Mark Oil 100ml — €28.95
+- Neubria Neu Collagen Liquid Collagen Drink 14x16ml Sachets — €31.49
+- Evolve Bio Retinol + C Booster 15ml — €27.36
+- Chocolate Salted Caramel Bar 15 x 55g — €31.38
+- Chocolate Hazelnut Whip Protein Bar 15 x 55g — €41.85
+- Evolve Peptide 360 Serum 30ml — €37.86
+- Pukka Night Time Tea 20 Tea Bags — €6.19
+- HotTea Mama Morning Rescue Ginger Root & Lemon Balm Tea 14 Tea Bags — €7.79
+- Dr Organic Rose Otto Deodorant 50ml — €8.49
+- Natures Aid MCT Creamer Medium Chain Triglycerides (MCT) Powder 225g — €19.50
+- Holland & Barrett Glucosamine Sulphate 1000mg 240 Tablets — €38.99
+- Naturtint Permanent Hair Colour Gel 5W (Radiant Medium Brown) — €16.99
+- Evolve Bio Retinol Gold Mask 60ml — €25.49
+- Aloe Pura Aloe Vera Gel 200ml — €8.39
+- Cheerful Buddha Lion's Mane Mushroom Green Tea 15 Tea Bags — €6.49
+- Faith in Nature Aloe Vera Body Wash 400ml — €8.79
+- DAME Super Plus Cotton Tampons 16 Pack — €3.74
+- Cheerful Buddha Matcha Latte 150g — €20.99
+- Holland & Barrett Glucosamine Sulphate 500mg 60 Capsules — €6.06
+- Aloe Pura Aloe Vera Digestive Aid Juice 500ml — €13.59
+- PhD Diet Whey Protein  Powder Vanilla Crème 600g — €18.00
+- Grass & Co EASE Pillow Spray with Eucalyptus, Ginger & Orange 50ml — €11.25
+- DAME Self-Sanitising Period Cup Size Medium — €27.00
+- Bioglan Collagen Mature Skin Berry Flavour Sachets 10 x 25ml — €32.99
+- Faith In Nature Coconut Body Wash 1L — €15.50
+- Oatly Oat M*lk (No Sugars) 6x 1L — €9.90
+- Holland & Barrett High Strength Vegan Triple Omega 3-6-9 Oil 680mg 30 Capsules — €20.14
+- Applied Nutrition 100% MCT Oil Premium Coconut Oil 490ml — €19.50
+- Nakd Protein Peanut Butter Bars 16x 45g — €18.15
+- Nivea Sun Kids Sun Spray SPF50 200ml — €10.20
+- Solgar Vitamin C 1000mg 100 Vegi Capsules — €21.36
+- Pulsin Choc Fudge & Peanut Keto Bar 50g — €2.90
+- Pukka Organic After Dinner 20 Tea Bags — €6.19
+- Vita Coco Original Coconut Water Multipack 6x330ml — €8.30
+- Holland & Barrett 10 Plant Tikka Masala Curry Sauce 340g — €3.89
+- Holland & Barrett Potassium 120 Tablets — €7.47
+- Applied Nutrition Collagen Peptides 300g — €33.00
+- WILD Fresh Cotton & Sea Salt Natural Deodorant Refill 40g — €7.80
+- Solgar Magnesium Citrate 120 Tablets — €22.80
+- Ecodenta Whitening Toothpaste with Mint Oil and Sage Extract 100ml — €5.99
+- Holland & Barrett High Strength Triple Omega 3-6-9 120 Capsules — €33.99
+- Salt of the Earth - Unscented Natural Deodorant Roll-on 75ml — €5.35
+- Wild Nutrition Collagen 500 Plus 94g — €34.49
+- Holland & Barrett Soy Protein Chunks 400g — €4.69
+- Burt's Bees Tinted Lip Balm Red Dahlia — €8.49
+- Viviscal Healthy Hair Vitamins 60 Tablets — €41.09
+- BetterYou Magnesium Oil Spray Original 100ml — €15.59
+- Holland & Barrett Energy Kombucha 4x 250ml — €4.68
+- Holland & Barrett Vitamin C, Vitamin B & Zinc 20 Effervescent Tablets — €2.94
+- Salt of the Earth - Melon & Cucumber Natural Deodorant Roll-on 75ml — €6.02
+- Pharma Nord Omega 7 Sea Buckthorn Oil 150 Capsules — €55.99
+- Naturya Gut Feel Flaxseed Blend Cacao & Maca 240g — €5.19
+- Holland & Barrett Dried Dates 700g — €8.19
+- Holland & Barrett Fruitfetti Strawberry & Peach 30g — €3.89
+- Faith in Nature Orange Soap 100g — €4.50
+- Holland & Barrett Apple Cider Vinegar Complex 60 Tablets — €9.24
+- Carmex Original Stick Spf 15 4.25g — €4.29
+- Holland & Barrett Edamame Bean Noodles 200g — €3.50
+- Holland & Barrett Fruitfetti Raspberry & Apple 30g — €3.89
+- Garden of Life Microbiome Once Daily Womens  30 Capsules — €26.49
+- Pukka Organic Supreme Matcha Green 20 Tea Bags — €6.19
+- One Water Still Water 500ml — €1.12
+- Holland & Barrett Vitamin C + Hyaluronic Acid Serum 30ml — €15.99
+- Plant Protein Bar Dark Chocolate Seasalt 60g — €2.60
+- Holland & Barrett Omega Mix 500g — €8.99
+- Holland & Barrett Pumpkin Seeds 125g — €3.25
+- Dr Organic Coconut Oil Toothpaste 100ml — €7.79
+- Faith in Nature Coconut Body Wash 400ml — €8.79
+- Holland & Barrett Vitamin B12 + Cyanacobalamin 500ug 120 Tablets — €6.50
+- Bounce Dipped Dark Chocolate Brownie Plant Protein Ball 40g — €2.99
+- Pukka Tulsi Clarity 20 Tea Bags — €6.19
+- Oliva Olive Oil Soap with Aloe Vera 100g — €2.89
+- H&B Expert Calm Gut 30 Capsules — €33.79
+- Deeply Gut Health Food With Prebiotic Plant Fibre Spinach & Kiwi With Seaweed 455ml — €17.99
+- Dr Organic Aloe Vera Shampoo 265ml — €9.49
+- Fushi Really Good Vitamin E Skin Oil 50ml — €25.95
+- Faith in Nature Mint Body Wash 400ml — €8.79
+- Balmonds Omega Rich Facial Oil 30ml — €21.77
+- Optimum Nutrition Chocolate Sweet Coconut Protein Bar 12x 59g — €37.80
+- Weleda Sage Deodorant 100ml — €12.18
+- Dr Organic Royal Jelly Body Firming Body Lotion 200ml — €12.19
+- Weleda Calendula Baby & Child Nappy Change Cream 75ml — €7.76
+- Nakd Raw Fruit & Nut Bakewell Tart Bars 18x 35g — €15.40
+- Weleda Regenerating Body Lotion 200ml — €16.49
+- Holland & Barrett Ultra Man 50+ 90 Tablets — €25.39
+- Odysea Greek Extra Virgin Olive Oil 250ml — €8.79
+- Naturtint Permanent Hair Colour 6.7 (Dark Chocolate Blonde) — €18.00
+- Jelly Bears Multivitamins 60 Gummies Pouch — €7.49
+- Naturtint Permanent Hair Colour 8C (Copper Blonde) — €18.00
+- Weleda Deodorant Stick Eucalyptus & Peppermint 50g — €8.62
+- Faith in Nature Seaweed & Citrus Shampoo 400ml — €10.99
+- Weleda Harmonising Body Lotion 200ml — €16.50
+- Wild Nutrition Food Grown Fertility Support for Women 60 Capsules — €38.25
+- Weleda White Mallow Body Lotion 200ml — €13.61
+- Weleda Foot Balm 75ml — €15.11
+- Natures Aid Red Clover Complex 60 Tablets — €13.06
+- TriActive Super Good Bar Almond & Dark Chocolate 12 x 50g — €35.10
+- Weleda Baby Intensive Body Cream 75ml — €9.71
+- Dr Organic Manuka Honey Face Scrub 125ml — €11.39
+- Naturtint Reflex Semi-Permanent Henna Cream Hair Colour 1.0 (Black) — €15.00
+- SmartShake Slim Gunsmoke 500ml — €9.60
+- Weleda Replenishing Handcream Sea Buckthorn 50ml — €13.61
+- Tribe Protein Muesli Low Sugar Nut Crunch 400g — €4.00
+- Dr Organic Skin Calm Probiotic Concentrated Cream 50ml — €16.99
+- Nakd Fruit & Fibre Apple & Cinnamon Bars 16x 44g — €20.16
+- DAME Super Cotton Tampons 16 Pack — €3.74
+- Dr Organic Lavender Pure Essential Oil 10ml — €6.86
+- HotTea Mama Night Owl Camomile, Lavender & Valerian Tea 14 Tea Bags — €7.79
+- Dr Organic Aloe Vera Soothing Face Wash 150ml — €11.00
+- Naturtint Permanent Hair Colour Cream 1N (Ebony Black) — €19.00
+- Dr Organic Coffee Anti-Dandruff Shampoo 200ml — €10.49
+- Dr Organic Manuka Honey Body Wash 250ml — €8.89
+- Holland & Barrett High Strength Vitamin E Oil Lemon Flavour 75ml — €17.55
+- Weleda Aknedoron Cleansing Lotion 100ml — €13.16
+- Westlab Cleanse Bathing Salts 1kg — €4.50
+- Holland & Barrett Black Seed Oil +Vit D 60 Capsules — €20.79
+- Dr Organic Moroccan Argan Oil Body Wash 250ml — €8.39
+- Holland & Barrett Miso Cashews & Almonds 210g — €5.99
+- SIS Hydro Electrolyte Orange & Mango 6 x Sachet 4.1g — €6.00
+- Dr. PawPaw Lip & Eye Balm 8ml — €6.45
+- Naturtint Permanent Hair Colour 7.7 (Teide Brown) — €18.00
+- Naturtint Permanent Hair Colour 8A (Ash Blonde) — €18.00
+- Holland & Barrett Multivitamins & Iron 240 Tablets — €8.67
+- Faith in Nature - Shampoo Bar Coconut & Shea Butter 85g — €8.99
+- REN Clearcalm Clarifying Clay Cleanser — €24.36
+- Nature Spell Growth Complex Salt Free Hair Mask 400ml — €9.49
+- Veloforte Ciocco Dates, Almonds & Cocoa Bar 55g — €3.40
+- Dr Organic Rose Otto Shampoo 265ml — €8.99
+- Miaroma Cedarwood Pure Essential Oil 10ml — €5.69
+- Miaroma Lavender Pure Essential Oil 30ml — €12.39
+- Deliciously Ella Roast Peanut Protein Ball 40g — €0.74
+- Holland & Barrett Iron + B Vits, Vit C & Minerals 250ml Liquid — €7.19
+- REN Evercalm Overnight Recovery Balm — €43.86
+- Minor Figures Everyday Oat M*lk 6x 1L — €9.79
+- Miaroma Lemongrass Pure Essential Oil 10ml — €5.36
+- Dr. PawPaw Overnight Lip Mask 10ml — €5.85
+- Big Zinger Organic Turmeric Drink 330ml (5x Shots) — €4.87
+- Bioglan Blood Pressure Formula 60 Capsules — €30.00
+- BetterYou Magnesium Still Water Energy (Pomegranate & Rhubarb) 4x 250ml — €7.80
+- TriActive Clear Protein Pineapple 250G — €25.00
+- Holland & Barrett Pescatarian Cod Liver Oil 1000mg 120 Capsules — €23.49
+- Q+A Squalane SPF50 Hydrating Daily Facial Sunscreen 50ml — €15.60
+- Miaroma Rose Blended Essential Oil 10ml — €8.71
+- The Beginnings Seaberry Cookies 80g — €4.89
+- Dr Organic Manuka Honey Lip Balm SPF 15 5.7ml — €5.99
+- Miaroma Clove Pure Essential Oil 10ml — €4.69
+- Tisserand Sleep Better Diffuser Oil 9ml — €15.49
+- Dr Organic Lavender Deodorant 50ml — €7.99
+- Grenade Lemon Cheesecake Protein Bar 60g — €4.80
+- Quinola Express Wholegrain Quinoa & Puy Lentils 250g — €2.00
+- Solgar Ultimate Bone Support 120 Tablets — €44.80
+- Garden of Life Microbiome Once Daily Prenatal 30 Capsules — €21.99
+- Holland & Barrett High Strength Hyaluronic Acid 50mg 30 Tablets — €28.99
+- Holland & Barrett Super Strength Garlic 7500mg 120 Capsules — €30.59
+- Weleda Harmonising Body Oil Wild Rose 100ml — €29.21
+- Natures Aid Collagen Joint Formula 60 Capsules — €31.19
+- Holland & Barrett Debittered Brewer's Yeast 240 Tablets — €12.39
+- Holland & Barrett Green Pea Tagliatelle 250g — €3.65
+- Colief Baby Scalp Oil 30ml — €3.25
+- Miaderma Lysine Balm — €4.32
+- BetterYou Magnesium Still Water Focus (Blueberry & Mint) 4x 250ml — €7.80
+- Holland & Barrett Vegan Omega 3 Oil 500mg 30 Capsules — €14.94
+- Holland & Barrett Teens Growing & Active Calcium, Vitamin D & Magnesium 30 Tablets — €2.92
+- Miaroma Citronella Pure Essential Oil 10ml — €4.69
+- Optimum Nutrition Gold Standard Pre Workout Kiwi 330g — €32.00
+- NIVEA Sun Kids Sensitive Protect & Care Suncream Lotion SPF 50+ 200ml — €10.20
+- Holland & Barrett SlimExpert Meal Replacement Shake Vanilla Flavour 520g — €25.99
+- Holland & Barrett SlimExpert Meal Replacement Shake Strawberry Flavour 520g — €25.99
+- Vitaskin Vitamin C Cleansing Balm — €19.99
+- TriActive Super Good Bar Almond & Dark Chocolate 50g — €3.25
+- Nivea After Sun Lotion with Aloe Vera 200ml — €6.60
+- NIVEA Sun Sensitive Immediate Protect Allergy Sun Spray SPF50+ 200ml — €11.75
+- Miaderma Eczema & Psoriasis Intensive Cream — €17.99
+- Nivea Sun Protect & Moisture Sun Cream Lotion SPF 50+ 200ml — €10.44
+- Natures Aid Mini Drops Children's Immune Plus Blackcurrant Flavour Supplement 50ml — €9.39
+- H&B Expert Triple Action Heart Support 60 Capsules & Tablets — €33.79
+- Weleda Baby Skin Protection Balm 30ml — €9.71
+- Holland & Barrett Royal Jelly 100mg 90 Capsules — €16.99
+- Holland & Barrett Soy Protein Chunks 250g — €3.29
+- Nivea Sun Protect & Moisture Sun Cream Spray SPF30 200ml — €10.80
+- Holland & Barrett High Strength Glucosamine Sulphate & Chondroitin 60 Tablets — €13.99
+- Holland & Barrett SlimExpert Meal Replacement Shake Chocolate Flavour 540g — €25.99
+- Tisserand Aroma Spa Diffuser — €55.99
+- Sukin Facial Scrub 125ml — €7.68
+- Sukin Brightening Jelly Exfoliator 125ml — €8.96
+- Miaroma Tangerine Pure Essential Oil 10ml — €4.69
+- PhD Smart Bar Plant Vanilla Fudge Protein Bar 64g — €3.30
+- Holland & Barrett SlimExpert Golden Syrup Flavour Porridge 10 Sachets — €9.09
+- Holland & Barrett Natural Vitamin E 400iu 30 Capsules — €11.49
+- Holland & Barrett Hemp Seed Oil 60 Capsules — €8.13
+- Miaderma Fungal Nail Treatment — €12.99
+- Sukin Brightening Night Glow Moisturiser 50ml — €17.55
+- H&B Value Vitamin C 500mg 30 Tablets — €0.20
+- Holland & Barrett Daily Kids Multivitamins & Omega 60 Gummies — €8.66
+- Optima Healthcare Goji Berry Juice 500ml — €1.99
+- Performance BCAA Apple & Blackcurrant 300g — €26.00
+- Performance BCAA  Pineapple & Orange 300g — €26.00
+- Performance Pre Workout Apple & Blackcurrant 440g — €23.00
+- Doisy & Dam D&Ds Vegan Dark Chocolate Drops 30g — €1.19
+- Liberty Nutrition Coarse Celtic Sea Salt 500g — €11.99
+- Sula Butterscotch Sugar Free Sweets 42g — €2.20
+- Solgar Choline 350mg Vegetable 100 Capsules — €22.50
+- Sterimar Baby Breathe Easy Spray 50ml — €2.90
+- Holland & Barrett Pure Cod Liver Oil 500mg 30 Capsules — €4.00
+- 45 Minute Consultation — €50.00
+- Barebells Marshmallow Rocky Road Protein Bar 55g — €3.25
+- Other Foods Crunchy Shiitake Mushrooms Black Truffle & Pink Salt 40g — €3.25
+- Trek White Chocolate & Raspberry Protein Flapjack 16x 50g — €21.67
+- Holland & Barrett Sunflower Seeds 1kg — €12.99
+- Ecodenta Certified Organic Fresh Breath Coconut Mouthwash 500ml — €11.69
+- Optimum Nutrition Gold Standard 100% Whey Protein Vanilla Ice Cream 900g — €53.30
+- Starpowa Hair, Skin and Nail 60 Gummies — €25.99
+- Holland & Barrett Regional Honey Scottish Heather 225g — €7.80
+- Twinings Superblends Sleep 20 Tea Bags — €2.93
+- Holland & Barrett High Protein Spicy Chickpeas 150g — €4.55
+- Odysea Whole Nocellara Olives 290g — €3.19
+- Linwoods Shelled Hemp 200g — €6.49
+- Holland & Barrett Brownie Bites with Benefits 30g — €2.59
+- Weleda Skin Food Nourishing Night Cream 40ml — €15.56
+- Holland & Barrett High Strength Complete Vit B Complex 120 Tablets — €7.00
+- Faith in Nature Aloe Vera with Ylang Ylang Soap 100g — €4.50
+- Twinings Superblends Metabolism 20 Bags — €3.49
+- Solgar Vitamin D3 1000IU 90 Tablets — €11.20
+- Nakd Protein Caramel Bars 16x 45g — €18.15
+- Carmex Original Tube 10g — €4.29
+- Manuka Doctor Manuka Honey MGO 40 250g — €26.00
+- Holland & Barrett Marine Collagen with Vitamin C 180 Tablets — €64.49
+- Holland & Barrett Sour Cream & Chive Protein Mix 210g — €3.89
+- Holland & Barrett Berry Bites with Benefits 30g — €2.59
+- H&B Expert Multi Action Joint Support 1 Month Supply 30 Capsules + 90 Tablets — €20.50
+- Yfood Ready to Drink Complete Meal Happy Banana Drink 500ml — €3.50
+- Pukka Organic Three Ginger Tea 20 Tea Bags — €6.19
+- Holland & Barrett Golden Raisins 210g — €4.29
+- Holland & Barrett 9 Plant Green Thai Curry Paste 185g — €3.89
+- Holland & Barrett Gut Health Mango & Goji Trail Mix 210g — €7.80
+- Tan Tablets 60 Tablets — €8.00
+- Egmont Honey Monofloral Manuka Honey MGO 400+ 250g — €27.49
+- Emily Sriracha Seaweed Crisps 50g — €2.85
+- Holland & Barrett Desiccated Coconut 200g — €2.79
+- Solgar Omega 3-6-9 Fish, Flax, Borage 60 Softgels — €26.40
+- Holland & Barrett Magnesium 375mg 30 Tablets — €5.49
+- Holland & Barrett Bombay Protein Mix 210g — €3.89
+- Holland & Barrett Shilajit 1000mg 90 Capsules — €20.50
+- Faith in Nature Grapefruit & Orange Shampoo 400ml — €10.99
+- Holland & Barrett Goji Berries 120g — €5.99
+- Holland & Barrett Courgette & Pepper Chips 16g — €1.69
+- Applied Nutrition Creatine Gummies Blue Raspberry 400g — €18.00
+- Biomel Complete Gut Belgian Chocolate 450g — €30.00
+- Naturya Matcha Superfood Latte 200g — €9.59
+- Eat Real Hummus Chips Sea Salt 110g — €2.99
+- Doves Farm Organic Wholemeal Rye Flour 1kg — €2.32
+- Holland & Barrett High Fibre Blend 90 Capsules — €10.24
+- Holland & Barrett Flaked Coconut 100g — €3.25
+- Holland & Barrett Orange Blossom Honey 225g — €8.00
+- Holland & Barrett Friendly Bacteria 50 Billion 30 Capsules — €19.25
+- Holland & Barrett Zinc 15mg 120 Tablets — €4.00
+- Superblends Super Green Matcha Tea Bags 20 Tea Bags — €3.14
+- Holland & Barrett Advanced Immunity 30 Capsules — €4.00
+- Vitabiotics Ultra Vitamin C & Zinc Effervescent — €6.49
+- Jelly Bears Omega 3 Orange Fruit Bear 60 Chewables — €9.74
+- A Vogel Menopause Support 60 Tablets — €24.50
+- Holland & Barrett High Strength Cold Pressed Evening Primrose Oil 1500mg 120 Capsules — €43.99
+- Solgar Vitamin B12 100 µg 100 Tablets — €10.95
+- Manuka Doctor Manuka Honey 640 MGO 500g — €135.00
+- Holland & Barrett Roasted Hemp Seeds 200g — €4.29
+- Yogi Tea Organic Stomach Ease 17 Tea Bags — €4.49
+- Naturtint Permanent Hair Colour 6N (Dark Blonde) — €18.00
+- Holland & Barrett Pecan Halves 200g — €8.59
+- Holland & Barrett Biotin 1000ug 60 Tablets — €7.14
+- Nakd Protein Cocoa Hazelnut Bars 16x 45g — €18.15
+- Eat Real Quinoa Chips Sour Cream & Chive 90g — €2.89
+- Perfect Ted Matcha Apple & Raspberry Energy Drink 250ml — €1.73
+- Holland & Barrett Omega 3 Fish Oil 1000mg 60 Capsules — €16.99
+- Holland & Barrett Redskin Peanuts 200g — €2.99
+- Manuka Doctor Manuka Honey MGO 70 250g — €32.50
+- Pukka Lemongrass & Ginger Tea 20 Tea Bags — €6.19
+- Faith in Nature Coconut Soap 100g — €4.50
+- Surreal High Protein Cereal Frosted 40g — €1.50
+- Holland & Barrett Clear Honey 720g — €6.50
+- Dr Organic Moroccan Argan Oil Day Cream 50ml — €15.99
+- Holland & Barrett Tribiotic Women's Intimate Health 60 Capsules — €20.50
+- Dr Organic Moroccan Argan Oil Night Cream 50ml — €15.59
+- Veloforte Protein Crunch Peanut & Sea Salt Bar 66g — €4.20
+- Dr Organic Rose Otto Day Cream 50ml — €15.99
+- Holland & Barrett Vitamin D 400 I.U. 10ug 90 Tablets — €3.19
+- Jade & Joy Caramel Blondie Vegan Collagen Protein Bar 50g — €3.25
+- Faith in Nature Rosemary Soap 100g — €4.50
+- Dr Organic Skin Clear Exfoliating Face Scrub 150ml — €8.99
+- Pukka Peppermint & Licorice Tea 20 Tea Bags — €6.19
+- Nature Spell Rosemary Oil For Hair & Skin 150ml — €9.49
+- Hu Simple Dark Chocolate Bar 60g — €3.83
+- Holland & Barrett Kids Multivitamin Strawberry Flavour 60 Gummies — €7.00
+- Holland & Barrett Vitamin A 3330IU + Vit D & Cod Liver Oil 90 Capsules — €6.50
+- Holland & Barrett B12 250ug 30ml Spray — €4.75
+- Odysea Early Harvest Extra Virgin Olive Oil 500ml — €10.39
+- Holland & Barrett Salt & Apple Cider Vinegar Protein Mix 210g — €3.89
+- Doves Farm Organic White Spelt Flour 1kg — €2.92
+- Holland & Barrett Chunky Papaya Pieces 210g — €8.29
+- Deliciously Ella Apple, Raisin & Cinnamon Oat Bar 50g — €1.69
+- Yogi Tea Organic Women’s Energy 17 Tea Bags — €4.49
+- Myprotein Protein Brownie Chocolate 75g — €3.25
+- Holland & Barrett Chlorella Rich in Chlorophyll 3000mg 120 Tablets — €11.24
+- Naturya Chia+ Chocolate Organic 175g — €5.20
+- Carmex Original Pot 7.5g — €4.29
+- Pulsin Orange Chocolate & Peanut Keto Bar 50g — €2.90
+- Holland & Barrett Cherry Bakewell Flapjack 80g — €2.29
+- Protein Bar White Chocolate Cookies & Cream 60g — €2.60
+- Holland & Barrett Chewy Banana Coins 210g — €7.19
+- Holland & Barrett Dark Apple Cider Vinegar 500ml — €7.80
+- Dr Organic Vitamin E Pure Oil Complex 50ml — €14.99
+- Holland & Barrett Turmeric + Manuka Honey 30 Capsules — €4.75
+- Faith in Nature Coconut Shampoo 400ml — €10.99
+- Solgar Full Spectrum Curcumin 30 Softgel Capsules — €40.30
+- Zooki Marine Collagen 5,000mg, Mango Peach Flavour - 14x15ml Liquid Sachets — €37.99
+- SIS Hydro Electrolyte Mix Lemon 6 x Sachet 4.1g — €6.00
+- Holland & Barrett High Strength Slow Release Vitamin B12 1000ug 180 Tablets — €27.49
+- Chia Smash Cherry Fruit Spread 227g — €4.99
+- Holland & Barrett Chia Seeds 200g — €3.99
+- Weleda Skin Food Lip Balm 8ml — €7.57
+- Jelly Bears Omega-3 + Multivitamins 60 Gummies Pouch — €7.49
+- Holland & Barrett Selenium + Zinc & Vits A, C & E 120 Tablets — €9.10
+- Holland and Barrett Kids Lutein Orange Flavour 30 Gummies — €4.50
+- Holland & Barrett Ginseng Complex 120 Tablets — €13.35
+- Hydration & Energy Effervescent Orange 20 Tablets — €6.00
+- Vitabiotics Menopace Max 84 Tablets — €31.58
+- Chia Smash Blueberry Fruit Spread 227g — €7.50
+- Holland & Barrett Siberian Ginseng 120 Tablets — €10.74
+- Holland & Barrett Inulin Powder 200g — €8.45
+- SiS Energy Oat Bar White Chocolate & Macadamia 70g — €2.50
+- Holland & Barrett Montmorency Cherry 435mg 30 Capsules — €9.49
+- Vego Whole Hazelnut Chocolate Bar 150g — €6.75
+- Optimum Nutrition Gold Standard 100% Whey Protein Double Rich Chocolate 899g — €53.30
+- Nature's Garden Green Tea Extract 750mg 100 Tablets — €9.00
+- Weleda Salt Toothpaste 75ml — €5.81
+- Optimum Nutrition Creatine Monohydrate Blue Raspberry 360g — €16.00
+- Naturtint Permanent Hair Colour 5.7 (Light Chocolate Chestnut) — €18.00
+- Rude Health Organic Almond M*lk 6x 1L — €14.24
+- Faith in Nature Grapefruit Soap 100g — €4.50
+- Holland & Barrett Acai with Green Tea 1500mg 120 Tablets — €10.74
+- Hydration & Energy Effervescent Lemon & Lime 20 Tablets — €6.00
+- Holland & Barrett Vitamin B12 100ug 120 Tablets — €6.50
+- Hu Salty Dark Chocolate Bar 60g — €3.83
+- Holland & Barrett Kids Vitamin D 10µg 30 Gummies — €3.42
+- Egmont Honey Manuka Honey MGO 100+ 500g — €32.49
+- Holland & Barrett Apple Rings 210g — €4.69
+- L-Lysine 1000mg 60 Tablets — €15.00
+- Holland & Barrett Vitamin D 1000 I.U. 25ug 20 Effervescent Tablets — €2.92
+- Holland & Barrett Glow Kombucha 250ml — €2.40
+- Holland & Barrett Golden Flaxseed 500g — €7.69
+- Holland & Barrett Live Friendly Bacteria with Acidophilus 3 Billion 120 Capsules — €20.79
+- Holland & Barrett Cats Claw 90 Capsules — €6.50
+- Holland & Barrett Vegan Vitamin D 1000 I.U 25ug 90 Capsules — €4.13
+- Twinings Superblends Sleep Valerian and Orange Blossom 20 Tea Bags — €2.93
+- Pukka Love Tea 20 Tea Bags — €6.19
+- Holland & Barrett Kids Omega 3 Fish Oil Blackcurrant Flavour Chewable 60 Capsules — €5.99
+- Veloforte Protein Crunch Cocoa & Stem Ginger Bar 68g — €4.20
+- Holland & Barrett New Zealand Clover Honey 225g — €6.50
+- Holland & Barrett Soft Apricots 210g — €5.99
+- Holland & Barrett Lightly Salted Cashews 210g — €6.19
+- Faith In Nature Refill Aluminium Bottle 450ml — €6.99
+- Holland & Barrett Ultra Man 50+ 30 Tablets — €6.50
+- Vital Proteins Collagen Peptides Unflavoured 10 Sachets — €25.99
+- Vego Vegolino Pralines 180g — €8.39
+- Nakd Raw Fruit & Nut Cashew Cookie Nut Bars 18 x 35g — €15.40
+- James White Drinks Sour Cherry Zinger Shot 70ml — €2.11
+- Planet Paleo Organic Bone Broth Collagen Protein Pure 225g — €29.24
+- Veloforte Avanti Dates, Pecans & Sea Salt Bar 55g — €3.40
+- Pukka Organic Peace Tea 20 Tea Bags — €6.19

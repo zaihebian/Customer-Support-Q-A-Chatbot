@@ -1,6 +1,6 @@
-# Free wellness consultations – Help Centre
+# Free wellness consultations
 
-Free wellness consultations – Help Centre
+Free wellness consultations
 
 Our expert Holland & Barrett advisors can offer free, personalised, one to one health and wellness advice instore or online!
 

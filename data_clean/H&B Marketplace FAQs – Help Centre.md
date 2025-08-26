@@ -1,6 +1,6 @@
-# H&B Marketplace FAQs – Help Centre
+# H&B Marketplace FAQs
 
-H&B Marketplace FAQs – Help Centre
+H&B Marketplace FAQs
 ## What is Holland & Barrett Marketplace?
 We are partnering with trusted brands so we can bring you even more of the health and wellness products they are searching for. These brands will be offering a wider selection of products through Marketplace on our website.
 ## Who fulfils marketplace orders?
@@ -18,7 +18,7 @@ Since we handle fulfilment, marketplace products have the **same delivery option
 * Same day Click & Collect if the store you've selected has the stock, and it's been placed before 1pm.
 * Standard and express shipping options
 ## *You can check estimated delivery times at checkout*## How do I return a marketplace product?
-Returns for marketplace products follow our standard return policy. You can return unused, unopened items within 30 days of purchase for a refund or exchange. Returns are processed by us, making it easy and convenient for you. You can find our returns options here.
+Returns for marketplace products follow our standard return policy. You can return unused, unopened items within 30 days of purchase for a refund or exchange. Returns are processed by us, making it easy and convenient for you. You can find our returns options [here](https://www.hollandandbarrett.com/info/delivery-and-returns/returns/).
 ## Can I earn Rewards for Life points on marketplace purchases?
 Yes! You will **earn Rewards for Life points** on marketplace purchases, in the same way as products sold by Holland & Barrett.
 ## Can I buy marketplace and regular Holland & Barrett products in the same order?

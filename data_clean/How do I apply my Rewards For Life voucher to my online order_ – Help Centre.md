@@ -1,6 +1,6 @@
-# How do I apply my Rewards For Life voucher to my online order? – Help Centre
+# How do I apply my Rewards For Life voucher to my online order?
 
-How do I apply my Rewards For Life voucher to my online order? – Help Centre
+How do I apply my Rewards For Life voucher to my online order?
 
 To apply your Rewards For Life to your order you'll need to sign into your online account or create an account with the same email you used to register the Rewards For Life with.
 
@@ -12,5 +12,5 @@ To redeem your voucher (if it hasn't applied automatically) you'll need to navig
 
 **Please note**: You won't be able to collect points or redeem your voucher unless you're logged.
 
-* You can create an account **here**.
-* Visit our dedicated Rewards For Life section on our help centre for RFL FAQs: Rewards For Life – Help Centre (hollandandbarrett.com)
+* You can create an account [**here**](https://www.hollandandbarrett.com/auth/signup).
+* Visit our dedicated Rewards For Life section on our help centre for RFL FAQs: [Rewards For Life (hollandandbarrett.com)](https://help.hollandandbarrett.com/hc/en-gb/categories/360002793479-Rewards-For-Life)

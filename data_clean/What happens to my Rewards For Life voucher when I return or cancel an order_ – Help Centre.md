@@ -1,6 +1,6 @@
-# What happens to my Rewards For Life voucher when I return or cancel an order? – Help Centre
+# What happens to my Rewards For Life voucher when I return or cancel an order?
 
-What happens to my Rewards For Life voucher when I return or cancel an order? – Help Centre
+What happens to my Rewards For Life voucher when I return or cancel an order?
 
 If you've used a Rewards For Life voucher on an order that has been returned or cancelled, please note that the voucher won't be added back automatically.
 
